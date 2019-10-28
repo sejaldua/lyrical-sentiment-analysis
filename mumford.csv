@@ -1,0 +1,109 @@
+,album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+0,Delta,1,1xjIDl9Eh5lBMjIRqMnAZL,42,spotify:track:1xjIDl9Eh5lBMjIRqMnAZL,0.227,0.331,0.523,0.00114,0.144,-8.321,0.0375,87.782,0.305,57
+3,Delta,4,5V0nHhlYIjUMfcSoJ5ziRD,Beloved,spotify:track:5V0nHhlYIjUMfcSoJ5ziRD,0.00539,0.445,0.773,0.153,0.131,-7.227,0.0441,191.966,0.313,64
+4,Delta,5,4W3LpDT8Z1DrlzOrLUkoo4,The Wild,spotify:track:4W3LpDT8Z1DrlzOrLUkoo4,0.734,0.465,0.267,0.678,0.205,-14.264,0.0315,132.002,0.0757,58
+5,Delta,6,3JD5xfa8pgJi0AzdRCRETW,October Skies,spotify:track:3JD5xfa8pgJi0AzdRCRETW,0.837,0.468,0.182,0.0132,0.0678,-15.562,0.0401,155.102,0.0382,55
+7,Delta,8,0SwB9nk7EfDUnIGbz7Go9G,Rose Of Sharon,spotify:track:0SwB9nk7EfDUnIGbz7Go9G,0.328,0.67,0.567,0.015,0.0873,-9.732,0.0357,139.995,0.434,56
+8,Delta,9,2Ol7kKQl9x3yCD1vA3B4xh,Picture You,spotify:track:2Ol7kKQl9x3yCD1vA3B4xh,0.443,0.642,0.52,0.00714,0.153,-10.925,0.0822,159.883,0.32,57
+12,Delta,13,496cFi1qz79MwI0q6wKh2r,Forever,spotify:track:496cFi1qz79MwI0q6wKh2r,0.386,0.388,0.371,0.000593,0.121,-10.096,0.0405,137.693,0.0958,55
+13,Delta,14,39r3UkUOYMh9pPQmKSZnuE,Delta,spotify:track:39r3UkUOYMh9pPQmKSZnuE,0.111,0.539,0.431,0.00262,0.0535,-10.117,0.0433,119.489,0.204,59
+15,Delta,2,3W3RQneS2yhA7E5l1dJW18,Guiding Light,spotify:track:3W3RQneS2yhA7E5l1dJW18,0.063,0.553,0.711,8.41e-06,0.0759,-7.714,0.0453,99.997,0.299,66
+16,Delta,3,47DKI4RxI8ZW0sBqDenMhO,Woman,spotify:track:47DKI4RxI8ZW0sBqDenMhO,0.662,0.592,0.555,0.452,0.111,-10.499,0.0381,156.957,0.142,65
+20,Delta,7,6NXKNt6jyg6vPUa8rKS7BA,Slip Away,spotify:track:6NXKNt6jyg6vPUa8rKS7BA,0.128,0.503,0.598,0.0983,0.106,-8.273,0.0362,162.905,0.196,58
+23,Delta,10,2nrlxvu6Ygdqlp0xJNeha7,Darkness Visible,spotify:track:2nrlxvu6Ygdqlp0xJNeha7,0.0855,0.391,0.626,0.758,0.0667,-9.286,0.071,160.222,0.217,51
+24,Delta,11,5bfujypYjuNsB1DynNwaG7,If I Say,spotify:track:5bfujypYjuNsB1DynNwaG7,0.264,0.44,0.492,0.0114,0.0917,-9.532,0.0359,99.966,0.0632,55
+25,Delta,12,0hGwUfy86ujFt9l806tFEG,Wild Heart,spotify:track:0hGwUfy86ujFt9l806tFEG,0.875,0.517,0.233,0.00247,0.0625,-14.427,0.0478,81.267,0.252,55
+42,Wilder Mind,1,7rQ3Gz0M6eMUCOQf4fs0qq,Tompkins Square Park,spotify:track:7rQ3Gz0M6eMUCOQf4fs0qq,0.0137,0.464,0.793,0.0257,0.107,-6.548,0.0541,162.027,0.468,59
+44,Wilder Mind,3,2vWxcvNva9F5J7QzK2GrSb,The Wolf,spotify:track:2vWxcvNva9F5J7QzK2GrSb,0.000559,0.42,0.825,0.728,0.183,-5.343,0.0468,152.934,0.307,59
+45,Wilder Mind,4,60Q1lkwI6yCnOdwbA1mX1s,Wilder Mind,spotify:track:60Q1lkwI6yCnOdwbA1mX1s,0.134,0.51,0.718,0.356,0.117,-8.752,0.0392,157.932,0.607,53
+48,Wilder Mind,7,3SvIbcr7uvjRp5PuPN47eo,Snake Eyes,spotify:track:3SvIbcr7uvjRp5PuPN47eo,0.0134,0.438,0.693,0.336,0.11,-7.678,0.0396,89.769,0.184,57
+52,Wilder Mind,11,3SVzIkht4MFCWWuLSZwyJE,Only Love,spotify:track:3SVzIkht4MFCWWuLSZwyJE,0.0466,0.286,0.26,0.000618,0.101,-9.803,0.0311,159.993,0.159,48
+67,Wilder Mind,2,1KDPWUuA213r6M2WbWUauE,Believe,spotify:track:1KDPWUuA213r6M2WbWUauE,0.0253,0.359,0.621,0.0586,0.223,-7.482,0.0443,113.699,0.422,63
+70,Wilder Mind,5,5jD0cNoMXOlITbKC4YxUIR,Just Smoke,spotify:track:5jD0cNoMXOlITbKC4YxUIR,0.0372,0.553,0.766,0.861,0.0772,-7.901,0.0621,156.072,0.347,49
+71,Wilder Mind,6,4ma2AbPdsy5ijCyJn16mAv,Monster,spotify:track:4ma2AbPdsy5ijCyJn16mAv,0.334,0.515,0.418,0.159,0.107,-11.794,0.0361,143.969,0.144,55
+73,Wilder Mind,8,68FpzKqD8pfCzzkNrGFtMG,Broad-Shouldered Beasts,spotify:track:68FpzKqD8pfCzzkNrGFtMG,0.328,0.403,0.328,0.0569,0.136,-9.576,0.0317,144.434,0.0788,48
+74,Wilder Mind,9,77R5bi9hfAUKZmu6tjOcxg,Cold Arms,spotify:track:77R5bi9hfAUKZmu6tjOcxg,0.825,0.47,0.133,2.03e-06,0.119,-13.678,0.0394,67.609,0.0463,49
+75,Wilder Mind,10,3e9dlCDa68YOOJ5kFSiEdp,Ditmas,spotify:track:3e9dlCDa68YOOJ5kFSiEdp,0.0055,0.524,0.733,0.00654,0.086,-7.39,0.0404,144.037,0.518,58
+77,Wilder Mind,12,2vH4MKK6DBky9glWsPMMPN,Hot Gates,spotify:track:2vH4MKK6DBky9glWsPMMPN,0.301,0.502,0.378,0.184,0.081,-12.692,0.0308,135.81,0.0731,48
+90,Wilder Mind (Deluxe),13,7eyck1oiqQLw08XWd4stOW,Tompkins Square Park - Live,spotify:track:7eyck1oiqQLw08XWd4stOW,0.129,0.507,0.74,0.0131,0.0747,-7.507,0.0697,161.869,0.538,40
+92,Wilder Mind (Deluxe),15,2dli0aeniqUEcFQMO6P9jw,The Wolf - Live,spotify:track:2dli0aeniqUEcFQMO6P9jw,0.000863,0.352,0.892,0.0481,0.038,-5.381,0.0778,150.91,0.184,38
+93,Wilder Mind (Deluxe),16,4YcNVTsyCiWcUByxN9k3yN,Snake Eyes - Live,spotify:track:4YcNVTsyCiWcUByxN9k3yN,0.0833,0.455,0.6,0.0236,0.141,-6.526,0.0346,89.939,0.181,38
+123,Wilder Mind (Deluxe),14,1GR56qgzN7jbCCYz18c4Fn,Believe - Live,spotify:track:1GR56qgzN7jbCCYz18c4Fn,0.208,0.372,0.47,0.000438,0.251,-8.734,0.0483,113.483,0.258,39
+166,Sigh No More (Japanese Deluxe Version),13,3OOFBgps3H7EftVfiC4zNa,Hold On To What You Believe,spotify:track:3OOFBgps3H7EftVfiC4zNa,0.00282,0.22,0.686,0.000128,0.158,-7.111,0.0367,75.667,0.124,10
+167,Sigh No More (Japanese Deluxe Version),14,4mU9tnfczuERk6i1iDvW1E,Untitled,spotify:track:4mU9tnfczuERk6i1iDvW1E,0.0806,0.293,0.608,0.113,0.113,-8.077,0.0366,127.67,0.172,0
+168,Sigh No More (Japanese Deluxe Version),15,3HDbFvSKFqz0sV0UqWO2Mc,To Darkness,spotify:track:3HDbFvSKFqz0sV0UqWO2Mc,0.188,0.54,0.429,0.677,0.351,-11.632,0.0352,121.567,0.055,0
+169,Sigh No More (Japanese Deluxe Version),1,0GUrQ5708FTIv1XHoRHyoR,Sigh No More - Live At Shepherd's Bush Empire,spotify:track:0GUrQ5708FTIv1XHoRHyoR,0.165,0.261,0.431,1.05e-06,0.717,-13.411,0.0428,146.296,0.338,0
+170,Sigh No More (Japanese Deluxe Version),2,22T9ZjaE6gFi8mdc2j0ITy,Winter Winds - Live At Shepherd's Bush Empire,spotify:track:22T9ZjaE6gFi8mdc2j0ITy,0.225,0.371,0.575,2.89e-05,0.92,-10.543,0.0284,89.971,0.559,0
+171,Sigh No More (Japanese Deluxe Version),3,6Ko4RoJ6ELBXkQt9ysmqq4,Roll Away Your Stone - Live At Shepherd's Bush Empire,spotify:track:6Ko4RoJ6ELBXkQt9ysmqq4,0.16,0.318,0.647,5.17e-05,0.911,-11.349,0.111,139.188,0.359,1
+172,Sigh No More (Japanese Deluxe Version),4,4RlUXajJ14ZjjVTj8aGTzt,White Blank Page - Live At Shepherd's Bush Empire,spotify:track:4RlUXajJ14ZjjVTj8aGTzt,0.114,0.285,0.497,0.0,0.7,-11.195,0.0428,86.709,0.488,1
+173,Sigh No More (Japanese Deluxe Version),5,6fT5ZZJHGbh2jWEwznsUIA,I Gave You All - Live At Shepherd's Bush Empire,spotify:track:6fT5ZZJHGbh2jWEwznsUIA,0.279,0.369,0.335,1.32e-05,0.706,-11.923,0.0433,123.599,0.19,0
+174,Sigh No More (Japanese Deluxe Version),6,5q10gEnaMstqOCE6kPxQZl,Awake My Soul - Live At Shepherd's Bush Empire,spotify:track:5q10gEnaMstqOCE6kPxQZl,0.061,0.201,0.309,0.00148,0.699,-13.292,0.0326,94.53,0.181,0
+175,Sigh No More (Japanese Deluxe Version),7,2lILXxBqXlFObGenDplNGS,Little Lion Man - Live At Shepherd's Bush Empire,spotify:track:2lILXxBqXlFObGenDplNGS,0.059,0.275,0.684,6.02e-05,0.952,-9.451,0.0395,136.645,0.458,0
+176,Sigh No More (Japanese Deluxe Version),8,4csebqzR9zkGzTcKrGkBz5,Thistle & Weeds - Live At Shepherd's Bush Empire,spotify:track:4csebqzR9zkGzTcKrGkBz5,0.025,0.323,0.271,0.00011,0.843,-13.926,0.0318,133.581,0.173,0
+177,Sigh No More (Japanese Deluxe Version),9,1Fk9QlnFKMiN8e8IzZ3989,Timshel - Live At Shepherd's Bush Empire,spotify:track:1Fk9QlnFKMiN8e8IzZ3989,0.834,0.401,0.208,0.0,0.737,-17.126,0.0378,81.155,0.152,0
+178,Sigh No More (Japanese Deluxe Version),10,7cvX2ODC3KvKeApsJKJDfh,The Cave - Live At Shepherd's Bush Empire,spotify:track:7cvX2ODC3KvKeApsJKJDfh,0.0815,0.382,0.57,0.0,0.959,-10.999,0.0382,142.549,0.384,0
+179,Sigh No More (Japanese Deluxe Version),11,7JQd3Gt7XMZ45ue9pYHZ11,Dust Bowl Dance - Live At Shepherd's Bush Empire,spotify:track:7JQd3Gt7XMZ45ue9pYHZ11,0.214,0.354,0.468,0.00014,0.991,-14.411,0.0756,128.574,0.289,0
+180,Sigh No More (Japanese Deluxe Version),12,3z46wTqbwnZROCsh4sgfkj,Feel The Tide - Live At Shepherd's Bush Empire,spotify:track:3z46wTqbwnZROCsh4sgfkj,0.0265,0.339,0.645,4.63e-06,0.962,-12.494,0.067,136.651,0.381,9
+193,Babel (Deluxe),13,1YYB9tvXmJqme8Cbs8ZOBS,For Those Below - Bonus Track,spotify:track:1YYB9tvXmJqme8Cbs8ZOBS,0.558,0.518,0.451,0.00314,0.136,-9.592,0.0282,116.548,0.331,2
+194,Babel (Deluxe),14,2rK8rD9MwMVwXbzbybrEAG,The Boxer - Bonus Track,spotify:track:2rK8rD9MwMVwXbzbybrEAG,0.658,0.459,0.381,4.45e-05,0.0964,-10.804,0.0313,97.848,0.287,1
+195,Babel (Deluxe),15,18mw4WOBGjXEQRloon9WVA,Where Are You Now - Bonus Track,spotify:track:18mw4WOBGjXEQRloon9WVA,0.639,0.48,0.349,2.29e-06,0.105,-10.016,0.0425,83.931,0.0978,12
+196,Babel (Deluxe),1,4zsEOGDq0SvhNiSV3PcsAG,Lovers Eyes - Live,spotify:track:4zsEOGDq0SvhNiSV3PcsAG,0.264,0.348,0.428,0.00835,0.452,-6.602,0.0277,78.235,0.133,0
+200,Babel (Deluxe),5,79xocRv3Zdj2Z2Lgo156YM,Lover Of The Light - Live,spotify:track:79xocRv3Zdj2Z2Lgo156YM,0.0198,0.348,0.619,0.00199,0.759,-6.579,0.034,108.353,0.231,0
+203,Babel (Deluxe),8,3F7Yi9bBuxsB7gaLuPgNR8,Whispers In The Dark - Live,spotify:track:3F7Yi9bBuxsB7gaLuPgNR8,0.0411,0.306,0.685,0.00119,0.983,-6.858,0.0497,136.091,0.354,0
+208,Babel (Gentlemen Of The Road Edition),2,1Jp1ayAHjjPnDk3S22ZXPi,Whispers In The Dark,spotify:track:1Jp1ayAHjjPnDk3S22ZXPi,0.00396,0.405,0.778,0.00435,0.127,-6.833,0.0405,134.836,0.326,25
+222,Babel (Gentlemen Of The Road Edition),16,0qt6vReCFNRPkDzi18vOkK,"Lovers Eyes - Live From Redrocks, Colorado",spotify:track:0qt6vReCFNRPkDzi18vOkK,0.264,0.348,0.428,0.00835,0.452,-6.602,0.0277,78.235,0.133,25
+223,Babel (Gentlemen Of The Road Edition),17,7tEBO3SPMFho8f6iYhlmzW,"Little Lion Man - Live From Redrocks, Colorado",spotify:track:7tEBO3SPMFho8f6iYhlmzW,0.113,0.291,0.707,5.17e-06,0.746,-6.165,0.0349,133.498,0.295,28
+224,Babel (Gentlemen Of The Road Edition),18,2oDK6saXSASzl5CpFzYFwh,"Below My Feet - Live From Redrocks, Colorado",spotify:track:2oDK6saXSASzl5CpFzYFwh,0.048,0.3,0.589,0.00067,0.71,-8.337,0.0373,130.87,0.191,24
+225,Babel (Gentlemen Of The Road Edition),19,75GnNfiZGU6qCKEX7qU7l6,"Roll Away Your Stone - Live From Redrocks, Colorado",spotify:track:75GnNfiZGU6qCKEX7qU7l6,0.192,0.39,0.671,0.000149,0.789,-7.57,0.0386,133.427,0.341,24
+226,Babel (Gentlemen Of The Road Edition),20,4NNDFB6qzteFHOipsFFVnN,"Lover of the Light - Live From Redrocks, Colorado",spotify:track:4NNDFB6qzteFHOipsFFVnN,0.0198,0.348,0.619,0.00199,0.759,-6.579,0.034,108.353,0.231,24
+227,Babel (Gentlemen Of The Road Edition),21,6agwsBJAeMYvMEKwjInN6s,"Ghosts That We Knew - Live From Redrocks, Colorado",spotify:track:6agwsBJAeMYvMEKwjInN6s,0.456,0.415,0.229,0.000149,0.131,-11.418,0.0323,79.334,0.0999,24
+228,Babel (Gentlemen Of The Road Edition),22,1800a0auXYHPPTqN09Qx4Y,"Awake My Soul - Live From Redrocks, Colorado",spotify:track:1800a0auXYHPPTqN09Qx4Y,0.0942,0.302,0.412,0.00269,0.912,-9.282,0.0343,126.473,0.238,24
+229,Babel (Gentlemen Of The Road Edition),23,25LOmMPXjzEEI0uKaI9mOC,"Whispers In The Dark - Live From Redrocks, Colorado",spotify:track:25LOmMPXjzEEI0uKaI9mOC,0.0411,0.306,0.685,0.00119,0.983,-6.858,0.0497,136.091,0.354,23
+230,Babel (Gentlemen Of The Road Edition),24,2MTC6UUoe70CX6o9EbqKox,"Dustbowl Dance - Live From Redrocks, Colorado",spotify:track:2MTC6UUoe70CX6o9EbqKox,0.317,0.376,0.637,9.29e-06,0.918,-8.665,0.0697,125.134,0.388,24
+231,Babel (Gentlemen Of The Road Edition),25,3Le2PbLGKFQpFiF8wVKWyh,"I Will Wait - Live From Redrocks, Colorado",spotify:track:3Le2PbLGKFQpFiF8wVKWyh,0.00392,0.284,0.751,0.0005,0.971,-5.459,0.0374,133.971,0.236,26
+232,Babel (Gentlemen Of The Road Edition),26,1MPU5wgvxhfl6xvjG4PJKQ,"The Cave - Live From Redrocks, Colorado",spotify:track:1MPU5wgvxhfl6xvjG4PJKQ,0.041,0.387,0.671,8.26e-05,0.977,-6.55,0.04,137.708,0.326,26
+233,The Road To Red Rocks (Live),1,1Ft4jTAnfax4lZN0sEt1T1,Lovers' Eyes - Live,spotify:track:1Ft4jTAnfax4lZN0sEt1T1,0.249,0.354,0.419,0.0061,0.326,-6.815,0.0277,77.678,0.117,39
+234,The Road To Red Rocks (Live),2,29Azy1tQfpyIYlaYgATQXx,Little Lion Man - Live,spotify:track:29Azy1tQfpyIYlaYgATQXx,0.12,0.294,0.68,5.77e-06,0.746,-6.358,0.0342,133.638,0.288,40
+235,The Road To Red Rocks (Live),3,0NWljYXJiJOUg0XBxK8OVx,Below My Feet - Live,spotify:track:0NWljYXJiJOUg0XBxK8OVx,0.034,0.304,0.557,0.000718,0.71,-8.608,0.0362,133.254,0.219,38
+236,The Road To Red Rocks (Live),4,7g8MUu8cMWXkLNf6uhWQjH,Roll Away Your Stone - Live,spotify:track:7g8MUu8cMWXkLNf6uhWQjH,0.182,0.412,0.668,0.000118,0.494,-7.825,0.036,133.609,0.334,38
+237,The Road To Red Rocks (Live),5,12Ufw49t2CxJSdJEgSJi8Z,Lover of the Light - Live,spotify:track:12Ufw49t2CxJSdJEgSJi8Z,0.0243,0.356,0.624,0.00172,0.748,-6.752,0.036,108.697,0.23,38
+238,The Road To Red Rocks (Live),6,2VkiDC0JxFZJ1dZCCkfvBK,Ghosts That We Knew - Live,spotify:track:2VkiDC0JxFZJ1dZCCkfvBK,0.473,0.411,0.227,6.66e-05,0.124,-11.592,0.0309,79.099,0.113,38
+239,The Road To Red Rocks (Live),7,0ZX9M8zNqdNp7PcAWpCQuc,Awake My Soul - Live,spotify:track:0ZX9M8zNqdNp7PcAWpCQuc,0.0862,0.301,0.389,0.0032,0.912,-9.477,0.0346,126.11,0.266,39
+240,The Road To Red Rocks (Live),8,01AfWkYX3t6yqrAx3AeSFp,Whispers In the Dark - Live,spotify:track:01AfWkYX3t6yqrAx3AeSFp,0.0359,0.294,0.663,0.00114,0.98,-7.034,0.0511,136.153,0.372,36
+241,The Road To Red Rocks (Live),9,3jnDoz38T3avO8K9OOZbZi,Dustbowl Dance - Live,spotify:track:3jnDoz38T3avO8K9OOZbZi,0.332,0.373,0.623,5.68e-06,0.918,-8.913,0.0757,125.34,0.367,37
+242,The Road To Red Rocks (Live),10,20vFR4YcIHGnh25eVLrATu,I Will Wait - Live,spotify:track:20vFR4YcIHGnh25eVLrATu,0.00398,0.284,0.729,0.000605,0.968,-5.665,0.0389,134.353,0.243,40
+243,The Road To Red Rocks (Live),11,7s1qjeCvMFfnDlZLT9KE3F,The Cave - Live,spotify:track:7s1qjeCvMFfnDlZLT9KE3F,0.0381,0.378,0.657,0.000378,0.976,-6.84,0.0402,137.799,0.325,38
+244,Sigh No More (Benelux Edition),1,7sY2PhhgC83TbsYvDD62xD,Sigh No More,spotify:track:7sY2PhhgC83TbsYvDD62xD,0.021,0.487,0.343,0.00025,0.275,-10.102,0.0303,147.56,0.173,36
+245,Sigh No More (Benelux Edition),2,2wT4SF6jRAl0GZvLO3QLeh,The Cave,spotify:track:2wT4SF6jRAl0GZvLO3QLeh,0.0453,0.595,0.51,0.000155,0.105,-9.489,0.0378,141.978,0.355,54
+246,Sigh No More (Benelux Edition),3,115tQX2GdUBbnP8uC864M8,Winter Winds,spotify:track:115tQX2GdUBbnP8uC864M8,0.213,0.233,0.508,0.0,0.348,-7.033,0.0315,82.532,0.403,41
+247,Sigh No More (Benelux Edition),4,526wCjfRmLHrUeqkLXH6Dg,Roll Away Your Stone,spotify:track:526wCjfRmLHrUeqkLXH6Dg,0.0561,0.435,0.555,6.72e-05,0.0885,-8.989,0.0501,137.083,0.185,36
+248,Sigh No More (Benelux Edition),5,6KqvjIj2V1nwSvl4uM48Ev,White Blank Page,spotify:track:6KqvjIj2V1nwSvl4uM48Ev,0.201,0.322,0.416,7.8e-06,0.553,-9.806,0.0344,110.417,0.286,42
+249,Sigh No More (Benelux Edition),6,1IpFLCn8FvVE6Wy0jO5FlM,I Gave You All,spotify:track:1IpFLCn8FvVE6Wy0jO5FlM,0.414,0.376,0.313,0.00338,0.11,-12.986,0.039,114.177,0.0394,37
+250,Sigh No More (Benelux Edition),7,1QTixxvaGxwe6GF8PBwAve,Little Lion Man,spotify:track:1QTixxvaGxwe6GF8PBwAve,0.0244,0.515,0.496,7.24e-06,0.0895,-8.018,0.0275,138.61,0.442,57
+251,Sigh No More (Benelux Edition),8,5DD5PUHdtQGDb19XOfrM3b,Timshel,spotify:track:5DD5PUHdtQGDb19XOfrM3b,0.862,0.362,0.267,3.77e-05,0.112,-9.765,0.0329,165.238,0.0885,36
+252,Sigh No More (Benelux Edition),9,34UBpauaMJ964MuCNKkSdT,Thistle & Weeds,spotify:track:34UBpauaMJ964MuCNKkSdT,0.014,0.266,0.322,6.89e-05,0.139,-11.151,0.0351,172.639,0.0457,34
+253,Sigh No More (Benelux Edition),10,037wkgyR90kvcxXdhgcUTy,Awake My Soul,spotify:track:037wkgyR90kvcxXdhgcUTy,0.0555,0.35,0.46,0.0326,0.0902,-10.105,0.0362,124.071,0.188,43
+254,Sigh No More (Benelux Edition),11,6M8H93aIiXfecfmbdUL5zm,Dust Bowl Dance,spotify:track:6M8H93aIiXfecfmbdUL5zm,0.0564,0.407,0.588,0.0047,0.365,-8.195,0.0445,116.074,0.283,35
+255,Sigh No More (Benelux Edition),12,0481BMfx2vPLxr2gWoWFsq,After The Storm,spotify:track:0481BMfx2vPLxr2gWoWFsq,0.902,0.426,0.17,6.27e-05,0.109,-13.417,0.0368,78.071,0.107,41
+256,Sigh No More (Benelux Edition),13,4kawreR33ZsKhz6p1mxgu4,Sigh No More - Live at Studio Brussel,spotify:track:4kawreR33ZsKhz6p1mxgu4,0.301,0.329,0.559,0.00165,0.988,-9.388,0.0443,152.437,0.16,27
+257,Sigh No More (Benelux Edition),14,2MwkIdJ1tk5vY2PTUFYzIP,Awake My Soul - Live at Studio Brussel,spotify:track:2MwkIdJ1tk5vY2PTUFYzIP,0.0292,0.31,0.409,0.314,0.674,-9.21,0.0309,123.107,0.137,27
+258,Sigh No More (Benelux Edition),15,5LRMEBN12GLYbGiKJexL8R,White Blank Page - Live at Studio Brussel,spotify:track:5LRMEBN12GLYbGiKJexL8R,0.434,0.34,0.431,0.00108,0.719,-8.911,0.0326,137.35,0.312,27
+259,Sigh No More (Benelux Edition),16,5IsKD0wEN6TFuaIYMkZcV0,Timshel - Live at Studio Brussel,spotify:track:5IsKD0wEN6TFuaIYMkZcV0,0.919,0.351,0.23,1.15e-05,0.698,-10.03,0.0345,162.025,0.081,26
+260,Sigh No More (Benelux Edition),17,0HSX6lwa2FVj2jGIlbAmHk,The Cave - Live at Studio Brussel,spotify:track:0HSX6lwa2FVj2jGIlbAmHk,0.626,0.364,0.585,0.00939,0.743,-8.095,0.0325,145.03,0.425,28
+293,Babel,6,2solXbKcrcuJqrPGMn8Ski,Lover Of The Light,spotify:track:2solXbKcrcuJqrPGMn8Ski,0.00776,0.301,0.69,0.000643,0.273,-6.853,0.0513,106.758,0.368,37
+299,Babel,12,5nosBLH4xcyAWIn65JiFqX,Not With Haste,spotify:track:5nosBLH4xcyAWIn65JiFqX,0.556,0.373,0.475,0.000247,0.111,-9.593,0.0296,100.354,0.123,33
+300,Babel (Deluxe Version),1,7nhItJUpHMXJURhZNyXHJs,Babel,spotify:track:7nhItJUpHMXJURhZNyXHJs,0.0253,0.373,0.813,0.000227,0.0826,-6.13,0.0543,80.465,0.647,60
+301,Babel (Deluxe Version),2,0l58YQ6trzdxO3C9XFczZS,Whispers in the Dark,spotify:track:0l58YQ6trzdxO3C9XFczZS,0.00382,0.385,0.73,0.00278,0.123,-7.82,0.0409,134.659,0.36,50
+302,Babel (Deluxe Version),3,0hm8rgOY17z7kQJlqGKbu7,I Will Wait,spotify:track:0hm8rgOY17z7kQJlqGKbu7,0.00993,0.48,0.756,0.00704,0.312,-5.399,0.0333,131.127,0.447,71
+303,Babel (Deluxe Version),4,4Bjugv3EniVJFRc52mA5bX,Holland Road,spotify:track:4Bjugv3EniVJFRc52mA5bX,0.0887,0.451,0.703,9.49e-05,0.103,-6.406,0.0356,79.306,0.404,52
+304,Babel (Deluxe Version),5,4ClTOGZc8kcb8l58Vx5z5A,Ghosts That We Knew,spotify:track:4ClTOGZc8kcb8l58Vx5z5A,0.552,0.44,0.276,0.00695,0.112,-12.151,0.0407,79.907,0.077,56
+305,Babel (Deluxe Version),6,48dghEx4vhyQQfFLwxPfHD,Lover of the Light,spotify:track:48dghEx4vhyQQfFLwxPfHD,0.00776,0.301,0.69,0.000643,0.273,-6.853,0.0513,106.758,0.368,60
+306,Babel (Deluxe Version),7,7rMDB1bKHO0Sh8oTWWvdsJ,Lovers' Eyes,spotify:track:7rMDB1bKHO0Sh8oTWWvdsJ,0.0305,0.267,0.337,1.9e-05,0.097,-9.713,0.0339,77.945,0.274,52
+307,Babel (Deluxe Version),8,4VrAGmxlj3ofLclSo5x7SF,Reminder,spotify:track:4VrAGmxlj3ofLclSo5x7SF,0.879,0.506,0.17,0.00025,0.0645,-13.236,0.043,114.729,0.213,50
+308,Babel (Deluxe Version),9,7rME25EmgXGVPQqKtU4CIK,Hopeless Wanderer,spotify:track:7rME25EmgXGVPQqKtU4CIK,0.0137,0.268,0.578,0.00281,0.106,-7.796,0.0383,154.204,0.201,61
+309,Babel (Deluxe Version),10,3xyfjVAwx5OAdhs40MtRxE,Broken Crown,spotify:track:3xyfjVAwx5OAdhs40MtRxE,0.00746,0.412,0.625,0.000938,0.152,-8.891,0.0386,128.134,0.265,57
+310,Babel (Deluxe Version),11,0cBDCol7TFmvpT4A4YpxV3,Below My Feet,spotify:track:0cBDCol7TFmvpT4A4YpxV3,0.0591,0.454,0.415,0.00361,0.0831,-9.554,0.0359,129.621,0.136,53
+311,Babel (Deluxe Version),12,0cduKQMGWmt9nIPJa0QtQ9,Not with Haste,spotify:track:0cduKQMGWmt9nIPJa0QtQ9,0.556,0.373,0.475,0.000247,0.111,-9.593,0.0296,100.354,0.123,49
+312,Babel (Deluxe Version),13,6RF26DwHBGUCrDps8qI4OH,For Those Below,spotify:track:6RF26DwHBGUCrDps8qI4OH,0.572,0.366,0.441,0.00201,0.133,-9.979,0.0303,116.55,0.312,45
+313,Babel (Deluxe Version),14,04Dqz6T7vL4APHblHSdR4q,The Boxer,spotify:track:04Dqz6T7vL4APHblHSdR4q,0.649,0.467,0.37,4.42e-05,0.0949,-11.231,0.032,98.646,0.272,47
+314,Babel (Deluxe Version),15,1fbiarYX9ZHCDLp4mj8XHA,Where Are You Now,spotify:track:1fbiarYX9ZHCDLp4mj8XHA,0.643,0.518,0.347,2.13e-06,0.532,-10.319,0.0401,84.18,0.122,56
