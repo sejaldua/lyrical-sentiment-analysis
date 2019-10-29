@@ -1,0 +1,29 @@
+,album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+11,Melodrama,12,5u64RlrnvvbtNh6R0EMh6o,Homemade Dynamite - REMIX,spotify:track:5u64RlrnvvbtNh6R0EMh6o,0.229,0.781,0.548,0.0,0.127,-4.997,0.0764,106.996,0.175,68
+24,Melodrama,1,6ie2Bw3xLj2JcGowOlcMhb,Green Light,spotify:track:6ie2Bw3xLj2JcGowOlcMhb,0.0209,0.594,0.721,8.55e-06,0.0879,-7.812,0.0957,128.942,0.253,75
+25,Melodrama,2,7eElVgPcxDqmgGrSwVFI74,Sober,spotify:track:7eElVgPcxDqmgGrSwVFI74,0.173,0.796,0.467,0.00411,0.126,-10.369,0.181,107.901,0.516,61
+26,Melodrama,3,02oAUzv4M0ItuTDy2RT3IT,Homemade Dynamite,spotify:track:02oAUzv4M0ItuTDy2RT3IT,0.287,0.771,0.431,2.75e-06,0.0934,-5.423,0.0577,107.047,0.268,62
+27,Melodrama,4,5q4BpnMrYEFzLO0dYODj6J,The Louvre,spotify:track:5q4BpnMrYEFzLO0dYODj6J,0.239,0.664,0.382,0.00749,0.0943,-9.977,0.047,123.214,0.126,64
+28,Melodrama,5,6Kkt27YmFyIFrcX3QXFi2o,Liability,spotify:track:6Kkt27YmFyIFrcX3QXFi2o,0.92,0.587,0.229,0.0,0.1,-11.254,0.128,75.67,0.379,72
+29,Melodrama,6,1Dp7JGFNjvg8Nk0CtMCcnr,Hard Feelings/Loveless,spotify:track:1Dp7JGFNjvg8Nk0CtMCcnr,0.0328,0.487,0.445,0.0104,0.0778,-10.959,0.113,97.031,0.18,64
+30,Melodrama,7,54ucfuN596MU25jQD3KjCL,Sober II (Melodrama),spotify:track:54ucfuN596MU25jQD3KjCL,0.166,0.524,0.312,4.79e-06,0.073,-11.627,0.0444,112.948,0.101,59
+31,Melodrama,8,193Dm5SqYy3hTSbuzxbwKc,Writer In The Dark,spotify:track:193Dm5SqYy3hTSbuzxbwKc,0.73,0.325,0.271,0.0,0.301,-8.069,0.0418,71.855,0.279,62
+32,Melodrama,9,6K8VQ84MqhsoakN5MjrnVR,Supercut,spotify:track:6K8VQ84MqhsoakN5MjrnVR,0.219,0.562,0.437,2.18e-05,0.0806,-10.229,0.052,124.852,0.15,70
+33,Melodrama,10,6lFDB0BFDRV58qaQDX85jV,Liability (Reprise),spotify:track:6lFDB0BFDRV58qaQDX85jV,0.904,0.552,0.277,0.0,0.107,-12.09,0.0635,77.759,0.26,55
+34,Melodrama,11,7ARveOiD31w2Nq0n5FsSf8,Perfect Places,spotify:track:7ARveOiD31w2Nq0n5FsSf8,0.00241,0.622,0.58,2.95e-05,0.112,-5.273,0.0504,104.41,0.512,68
+58,Pure Heroine,13,4NANEz86igmnKs0ZzqMBOw,Bravado - Fffrrannno Remix,spotify:track:4NANEz86igmnKs0ZzqMBOw,0.0202,0.661,0.61,6.19e-05,0.284,-8.519,0.0467,88.012,0.205,3
+59,Pure Heroine,1,74fpNVAJrKGQuqHETi4WSt,Tennis Court,spotify:track:74fpNVAJrKGQuqHETi4WSt,0.0175,0.764,0.547,0.000161,0.23,-8.6,0.0576,89.993,0.402,69
+60,Pure Heroine,2,6rjtB7KSIiJ6v9vrACMlqF,400 Lux,spotify:track:6rjtB7KSIiJ6v9vrACMlqF,0.083,0.623,0.48,0.002,0.124,-8.372,0.0278,92.007,0.181,62
+61,Pure Heroine,3,2dLLR6qlu5UJ5gk0dKz0h3,Royals,spotify:track:2dLLR6qlu5UJ5gk0dKz0h3,0.106,0.616,0.432,0.0,0.132,-9.546,0.133,84.778,0.302,79
+62,Pure Heroine,4,2MvvoeRt8NcOXWESkxWn3g,Ribs,spotify:track:2MvvoeRt8NcOXWESkxWn3g,0.526,0.49,0.47,0.533,0.108,-9.35,0.0753,127.783,0.0483,69
+63,Pure Heroine,5,51QEyJI5M7uyd8DOh9tqQY,Buzzcut Season,spotify:track:51QEyJI5M7uyd8DOh9tqQY,0.618,0.729,0.62,0.37,0.116,-10.546,0.0783,111.015,0.257,66
+64,Pure Heroine,6,3G6hD9B2ZHOsgf4WfNu7X1,Team,spotify:track:3G6hD9B2ZHOsgf4WfNu7X1,0.151,0.696,0.59,0.0,0.247,-7.428,0.0904,99.984,0.462,74
+65,Pure Heroine,7,60jI0JgMLLj1VggHJVhtRs,Glory And Gore,spotify:track:60jI0JgMLLj1VggHJVhtRs,0.267,0.683,0.383,0.0,0.239,-8.781,0.038,143.931,0.264,64
+66,Pure Heroine,8,5TRZnGsX49uCZkXxIbD7Ru,Still Sane,spotify:track:5TRZnGsX49uCZkXxIbD7Ru,0.662,0.392,0.354,0.00348,0.0762,-12.117,0.0439,132.049,0.107,57
+67,Pure Heroine,9,35kahykNu00FPysz3C2euR,White Teeth Teens,spotify:track:35kahykNu00FPysz3C2euR,0.634,0.643,0.322,6.99e-05,0.148,-9.099,0.0361,114.038,0.0901,59
+68,Pure Heroine,10,55N0YHhO55Q1lWsc4dDPcI,A World Alone,spotify:track:55N0YHhO55Q1lWsc4dDPcI,0.306,0.496,0.488,0.00138,0.207,-8.37,0.0426,117.982,0.0579,60
+79,Pure Heroine (Extended),11,02ZorlDGq0uTnMobHNh4EL,Bravado,spotify:track:02ZorlDGq0uTnMobHNh4EL,0.516,0.489,0.536,0.0264,0.165,-10.332,0.0904,175.879,0.0395,60
+80,Pure Heroine (Extended),12,3Lw7lWTJlcqlx8E9HFmByr,Million Dollar Bills,spotify:track:3Lw7lWTJlcqlx8E9HFmByr,0.249,0.689,0.551,0.0202,0.226,-6.403,0.0916,81.98,0.464,57
+81,Pure Heroine (Extended),13,2yrJ1jWo3HLksJFUqUsZE4,The Love Club,spotify:track:2yrJ1jWo3HLksJFUqUsZE4,0.229,0.792,0.492,0.0112,0.134,-7.295,0.0572,92.027,0.603,65
+82,Pure Heroine (Extended),14,45UvXCltvMpEPNLGzG0NYk,Biting Down,spotify:track:45UvXCltvMpEPNLGzG0NYk,0.769,0.83,0.376,0.0317,0.107,-10.926,0.0686,116.034,0.32,56
+83,Pure Heroine (Extended),15,7otV7kSzDMo11qLlw8pAtr,Swingin Party,spotify:track:7otV7kSzDMo11qLlw8pAtr,0.911,0.374,0.238,3.01e-05,0.119,-13.447,0.0391,106.867,0.0932,58
