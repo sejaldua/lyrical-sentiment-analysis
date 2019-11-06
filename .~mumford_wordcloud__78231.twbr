@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20193.19.1017.1259                               -->
+<workbook source-build='2019.3.1 (20193.19.1017.1259)' source-platform='mac' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <SheetIdentifierTracking ignorable='true' predowngraded='true' />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='mumford' inline='true' name='federated.0oedusn1ckjmrp1dx9b5v1xo8ymx' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='mumford' name='textscan.0wple1e02pfvs711pc7910r1988e'>
+            <connection class='textscan' directory='/Users/sejaldua/Desktop/DIS/spotify_proj' filename='mumford.csv' password='' port='0' server='' />
+          </named-connection>
+          <named-connection caption='genre_comparison' name='textscan.1u6pi1k090omd41386snz165oa2m'>
+            <connection class='textscan' directory='/Users/sejaldua/Desktop/DIS/spotify_proj' filename='genre_comparison.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation join='full' type='join'>
+          <relation connection='textscan.0wple1e02pfvs711pc7910r1988e' name='mumford.csv' table='[mumford#csv]' type='table'>
+            <columns character-set='UTF-8' header='no' locale='en_US' separator=','>
+              <column datatype='string' name='F1' ordinal='0' />
+              <column datatype='string' name='F2' ordinal='1' />
+              <column datatype='integer' name='F3' ordinal='2' />
+            </columns>
+          </relation>
+          <relation connection='textscan.1u6pi1k090omd41386snz165oa2m' name='genre_comparison.csv' table='[genre_comparison#csv]' type='table'>
+            <columns character-set='UTF-8' header='no' locale='en_US' separator=','>
+              <column datatype='string' name='F1' ordinal='0' />
+              <column datatype='string' name='F2' ordinal='1' />
+              <column datatype='integer' name='F3' ordinal='2' />
+            </columns>
+          </relation>
+        </relation>
+        <cols>
+          <map key='[F1 (genre_comparison.csv)]' value='[genre_comparison.csv].[F1]' />
+          <map key='[F1]' value='[mumford.csv].[F1]' />
+          <map key='[F2 (genre_comparison.csv)]' value='[genre_comparison.csv].[F2]' />
+          <map key='[F2]' value='[mumford.csv].[F2]' />
+          <map key='[F3 (genre_comparison.csv)]' value='[genre_comparison.csv].[F3]' />
+          <map key='[F3]' value='[mumford.csv].[F3]' />
+        </cols>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[mumford.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;false&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F1</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[F1]</local-name>
+            <parent-name>[mumford.csv]</parent-name>
+            <remote-alias>F1</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F2</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[F2]</local-name>
+            <parent-name>[mumford.csv]</parent-name>
+            <remote-alias>F2</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F3</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[F3]</local-name>
+            <parent-name>[mumford.csv]</parent-name>
+            <remote-alias>F3</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[genre_comparison.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;false&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='quote-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F1</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[F1 (genre_comparison.csv)]</local-name>
+            <parent-name>[genre_comparison.csv]</parent-name>
+            <remote-alias>F1</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F2</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[F2 (genre_comparison.csv)]</local-name>
+            <parent-name>[genre_comparison.csv]</parent-name>
+            <remote-alias>F2</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F3</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[F3 (genre_comparison.csv)]</local-name>
+            <parent-name>[genre_comparison.csv]</parent-name>
+            <remote-alias>F3</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='F1 (genre comparison.csv)' datatype='string' name='[F1 (genre_comparison.csv)]' role='dimension' type='nominal' />
+      <column datatype='string' name='[F1]' role='dimension' type='nominal' />
+      <column caption='F2 (genre comparison.csv)' datatype='string' name='[F2 (genre_comparison.csv)]' role='dimension' type='nominal' />
+      <column caption='F3 (genre comparison.csv)' datatype='integer' name='[F3 (genre_comparison.csv)]' role='measure' type='quantitative' />
+      <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+        <calculation class='tableau' formula='1' />
+      </column>
+      <column-instance column='[F1]' derivation='None' name='[none:F1:nk]' pivot='key' type='nominal' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.519298' measure-ordering='alphabetic' measure-percentage='0.480702' show-aliased-fields='true' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:F1:nk]' palette='nuriel_stone_10_0' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;Wilder Mind&quot;</bucket>
+            </map>
+            <map to='#6fb899'>
+              <bucket>&quot;Babel (Deluxe)&quot;</bucket>
+            </map>
+            <map to='#8175aa'>
+              <bucket>&quot;Sigh No More (Japanese Deluxe Version)&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Babel (Gentlemen Of The Road Edition)&quot;</bucket>
+            </map>
+            <map to='#94d0c0'>
+              <bucket>&quot;Babel&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Delta&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='mumford' name='federated.0oedusn1ckjmrp1dx9b5v1xo8ymx' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0oedusn1ckjmrp1dx9b5v1xo8ymx'>
+            <column datatype='string' name='[F1]' role='dimension' type='nominal' />
+            <column datatype='string' name='[F2]' role='dimension' type='nominal' />
+            <column datatype='integer' name='[F3]' role='measure' type='quantitative' />
+            <column-instance column='[F1]' derivation='None' name='[none:F1:nk]' pivot='key' type='nominal' />
+            <column-instance column='[F2]' derivation='None' name='[none:F2:nk]' pivot='key' type='nominal' />
+            <column-instance column='[F3]' derivation='Sum' name='[sum:F3:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='quantitative' column='[federated.0oedusn1ckjmrp1dx9b5v1xo8ymx].[sum:F3:qk]' included-values='in-range'>
+            <min>5</min>
+          </filter>
+          <slices>
+            <column>[federated.0oedusn1ckjmrp1dx9b5v1xo8ymx].[sum:F3:qk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='mark'>
+            <encoding attr='color' field='[federated.0oedusn1ckjmrp1dx9b5v1xo8ymx].[sum:F3:qk]' num-steps='15' palette='purple_10_0' type='interpolated' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='font-size' value='10' />
+            <format attr='font-family' value='DIN Alternate' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Text' />
+            <encodings>
+              <size column='[federated.0oedusn1ckjmrp1dx9b5v1xo8ymx].[sum:F3:qk]' />
+              <text column='[federated.0oedusn1ckjmrp1dx9b5v1xo8ymx].[none:F2:nk]' />
+              <color column='[federated.0oedusn1ckjmrp1dx9b5v1xo8ymx].[none:F1:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-line-first' value='true' />
+                <format attr='mark-labels-line-last' value='true' />
+                <format attr='mark-labels-range-min' value='true' />
+                <format attr='mark-labels-range-max' value='true' />
+                <format attr='mark-labels-mode' value='all' />
+                <format attr='mark-labels-range-scope' value='pane' />
+                <format attr='mark-labels-range-field' value='' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{DB76E760-44E0-45A3-A2EC-789806EDE318}' />
+    </worksheet>
+    <worksheet name='Sheet 2'>
+      <table>
+        <view>
+          <datasources />
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{EB9E6848-918B-4E8B-B479-C671B8ABB798}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0oedusn1ckjmrp1dx9b5v1xo8ymx].[none:F1:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{F4B67DF1-D4C1-4088-8DBB-A80CDB5DF67B}' />
+    </window>
+    <window class='worksheet' maximized='true' name='Sheet 2'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{B6394C54-2A82-45A6-8DAE-46C15C5E08D9}' />
+    </window>
+  </windows>
+</workbook>

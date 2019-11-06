@@ -1,109 +1,2157 @@
-,album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
-0,Delta,1,1xjIDl9Eh5lBMjIRqMnAZL,42,spotify:track:1xjIDl9Eh5lBMjIRqMnAZL,0.227,0.331,0.523,0.00114,0.144,-8.321,0.0375,87.782,0.305,57
-3,Delta,4,5V0nHhlYIjUMfcSoJ5ziRD,Beloved,spotify:track:5V0nHhlYIjUMfcSoJ5ziRD,0.00539,0.445,0.773,0.153,0.131,-7.227,0.0441,191.966,0.313,64
-4,Delta,5,4W3LpDT8Z1DrlzOrLUkoo4,The Wild,spotify:track:4W3LpDT8Z1DrlzOrLUkoo4,0.734,0.465,0.267,0.678,0.205,-14.264,0.0315,132.002,0.0757,58
-5,Delta,6,3JD5xfa8pgJi0AzdRCRETW,October Skies,spotify:track:3JD5xfa8pgJi0AzdRCRETW,0.837,0.468,0.182,0.0132,0.0678,-15.562,0.0401,155.102,0.0382,55
-7,Delta,8,0SwB9nk7EfDUnIGbz7Go9G,Rose Of Sharon,spotify:track:0SwB9nk7EfDUnIGbz7Go9G,0.328,0.67,0.567,0.015,0.0873,-9.732,0.0357,139.995,0.434,56
-8,Delta,9,2Ol7kKQl9x3yCD1vA3B4xh,Picture You,spotify:track:2Ol7kKQl9x3yCD1vA3B4xh,0.443,0.642,0.52,0.00714,0.153,-10.925,0.0822,159.883,0.32,57
-12,Delta,13,496cFi1qz79MwI0q6wKh2r,Forever,spotify:track:496cFi1qz79MwI0q6wKh2r,0.386,0.388,0.371,0.000593,0.121,-10.096,0.0405,137.693,0.0958,55
-13,Delta,14,39r3UkUOYMh9pPQmKSZnuE,Delta,spotify:track:39r3UkUOYMh9pPQmKSZnuE,0.111,0.539,0.431,0.00262,0.0535,-10.117,0.0433,119.489,0.204,59
-15,Delta,2,3W3RQneS2yhA7E5l1dJW18,Guiding Light,spotify:track:3W3RQneS2yhA7E5l1dJW18,0.063,0.553,0.711,8.41e-06,0.0759,-7.714,0.0453,99.997,0.299,66
-16,Delta,3,47DKI4RxI8ZW0sBqDenMhO,Woman,spotify:track:47DKI4RxI8ZW0sBqDenMhO,0.662,0.592,0.555,0.452,0.111,-10.499,0.0381,156.957,0.142,65
-20,Delta,7,6NXKNt6jyg6vPUa8rKS7BA,Slip Away,spotify:track:6NXKNt6jyg6vPUa8rKS7BA,0.128,0.503,0.598,0.0983,0.106,-8.273,0.0362,162.905,0.196,58
-23,Delta,10,2nrlxvu6Ygdqlp0xJNeha7,Darkness Visible,spotify:track:2nrlxvu6Ygdqlp0xJNeha7,0.0855,0.391,0.626,0.758,0.0667,-9.286,0.071,160.222,0.217,51
-24,Delta,11,5bfujypYjuNsB1DynNwaG7,If I Say,spotify:track:5bfujypYjuNsB1DynNwaG7,0.264,0.44,0.492,0.0114,0.0917,-9.532,0.0359,99.966,0.0632,55
-25,Delta,12,0hGwUfy86ujFt9l806tFEG,Wild Heart,spotify:track:0hGwUfy86ujFt9l806tFEG,0.875,0.517,0.233,0.00247,0.0625,-14.427,0.0478,81.267,0.252,55
-42,Wilder Mind,1,7rQ3Gz0M6eMUCOQf4fs0qq,Tompkins Square Park,spotify:track:7rQ3Gz0M6eMUCOQf4fs0qq,0.0137,0.464,0.793,0.0257,0.107,-6.548,0.0541,162.027,0.468,59
-44,Wilder Mind,3,2vWxcvNva9F5J7QzK2GrSb,The Wolf,spotify:track:2vWxcvNva9F5J7QzK2GrSb,0.000559,0.42,0.825,0.728,0.183,-5.343,0.0468,152.934,0.307,59
-45,Wilder Mind,4,60Q1lkwI6yCnOdwbA1mX1s,Wilder Mind,spotify:track:60Q1lkwI6yCnOdwbA1mX1s,0.134,0.51,0.718,0.356,0.117,-8.752,0.0392,157.932,0.607,53
-48,Wilder Mind,7,3SvIbcr7uvjRp5PuPN47eo,Snake Eyes,spotify:track:3SvIbcr7uvjRp5PuPN47eo,0.0134,0.438,0.693,0.336,0.11,-7.678,0.0396,89.769,0.184,57
-52,Wilder Mind,11,3SVzIkht4MFCWWuLSZwyJE,Only Love,spotify:track:3SVzIkht4MFCWWuLSZwyJE,0.0466,0.286,0.26,0.000618,0.101,-9.803,0.0311,159.993,0.159,48
-67,Wilder Mind,2,1KDPWUuA213r6M2WbWUauE,Believe,spotify:track:1KDPWUuA213r6M2WbWUauE,0.0253,0.359,0.621,0.0586,0.223,-7.482,0.0443,113.699,0.422,63
-70,Wilder Mind,5,5jD0cNoMXOlITbKC4YxUIR,Just Smoke,spotify:track:5jD0cNoMXOlITbKC4YxUIR,0.0372,0.553,0.766,0.861,0.0772,-7.901,0.0621,156.072,0.347,49
-71,Wilder Mind,6,4ma2AbPdsy5ijCyJn16mAv,Monster,spotify:track:4ma2AbPdsy5ijCyJn16mAv,0.334,0.515,0.418,0.159,0.107,-11.794,0.0361,143.969,0.144,55
-73,Wilder Mind,8,68FpzKqD8pfCzzkNrGFtMG,Broad-Shouldered Beasts,spotify:track:68FpzKqD8pfCzzkNrGFtMG,0.328,0.403,0.328,0.0569,0.136,-9.576,0.0317,144.434,0.0788,48
-74,Wilder Mind,9,77R5bi9hfAUKZmu6tjOcxg,Cold Arms,spotify:track:77R5bi9hfAUKZmu6tjOcxg,0.825,0.47,0.133,2.03e-06,0.119,-13.678,0.0394,67.609,0.0463,49
-75,Wilder Mind,10,3e9dlCDa68YOOJ5kFSiEdp,Ditmas,spotify:track:3e9dlCDa68YOOJ5kFSiEdp,0.0055,0.524,0.733,0.00654,0.086,-7.39,0.0404,144.037,0.518,58
-77,Wilder Mind,12,2vH4MKK6DBky9glWsPMMPN,Hot Gates,spotify:track:2vH4MKK6DBky9glWsPMMPN,0.301,0.502,0.378,0.184,0.081,-12.692,0.0308,135.81,0.0731,48
-90,Wilder Mind (Deluxe),13,7eyck1oiqQLw08XWd4stOW,Tompkins Square Park - Live,spotify:track:7eyck1oiqQLw08XWd4stOW,0.129,0.507,0.74,0.0131,0.0747,-7.507,0.0697,161.869,0.538,40
-92,Wilder Mind (Deluxe),15,2dli0aeniqUEcFQMO6P9jw,The Wolf - Live,spotify:track:2dli0aeniqUEcFQMO6P9jw,0.000863,0.352,0.892,0.0481,0.038,-5.381,0.0778,150.91,0.184,38
-93,Wilder Mind (Deluxe),16,4YcNVTsyCiWcUByxN9k3yN,Snake Eyes - Live,spotify:track:4YcNVTsyCiWcUByxN9k3yN,0.0833,0.455,0.6,0.0236,0.141,-6.526,0.0346,89.939,0.181,38
-123,Wilder Mind (Deluxe),14,1GR56qgzN7jbCCYz18c4Fn,Believe - Live,spotify:track:1GR56qgzN7jbCCYz18c4Fn,0.208,0.372,0.47,0.000438,0.251,-8.734,0.0483,113.483,0.258,39
-166,Sigh No More (Japanese Deluxe Version),13,3OOFBgps3H7EftVfiC4zNa,Hold On To What You Believe,spotify:track:3OOFBgps3H7EftVfiC4zNa,0.00282,0.22,0.686,0.000128,0.158,-7.111,0.0367,75.667,0.124,10
-167,Sigh No More (Japanese Deluxe Version),14,4mU9tnfczuERk6i1iDvW1E,Untitled,spotify:track:4mU9tnfczuERk6i1iDvW1E,0.0806,0.293,0.608,0.113,0.113,-8.077,0.0366,127.67,0.172,0
-168,Sigh No More (Japanese Deluxe Version),15,3HDbFvSKFqz0sV0UqWO2Mc,To Darkness,spotify:track:3HDbFvSKFqz0sV0UqWO2Mc,0.188,0.54,0.429,0.677,0.351,-11.632,0.0352,121.567,0.055,0
-169,Sigh No More (Japanese Deluxe Version),1,0GUrQ5708FTIv1XHoRHyoR,Sigh No More - Live At Shepherd's Bush Empire,spotify:track:0GUrQ5708FTIv1XHoRHyoR,0.165,0.261,0.431,1.05e-06,0.717,-13.411,0.0428,146.296,0.338,0
-170,Sigh No More (Japanese Deluxe Version),2,22T9ZjaE6gFi8mdc2j0ITy,Winter Winds - Live At Shepherd's Bush Empire,spotify:track:22T9ZjaE6gFi8mdc2j0ITy,0.225,0.371,0.575,2.89e-05,0.92,-10.543,0.0284,89.971,0.559,0
-171,Sigh No More (Japanese Deluxe Version),3,6Ko4RoJ6ELBXkQt9ysmqq4,Roll Away Your Stone - Live At Shepherd's Bush Empire,spotify:track:6Ko4RoJ6ELBXkQt9ysmqq4,0.16,0.318,0.647,5.17e-05,0.911,-11.349,0.111,139.188,0.359,1
-172,Sigh No More (Japanese Deluxe Version),4,4RlUXajJ14ZjjVTj8aGTzt,White Blank Page - Live At Shepherd's Bush Empire,spotify:track:4RlUXajJ14ZjjVTj8aGTzt,0.114,0.285,0.497,0.0,0.7,-11.195,0.0428,86.709,0.488,1
-173,Sigh No More (Japanese Deluxe Version),5,6fT5ZZJHGbh2jWEwznsUIA,I Gave You All - Live At Shepherd's Bush Empire,spotify:track:6fT5ZZJHGbh2jWEwznsUIA,0.279,0.369,0.335,1.32e-05,0.706,-11.923,0.0433,123.599,0.19,0
-174,Sigh No More (Japanese Deluxe Version),6,5q10gEnaMstqOCE6kPxQZl,Awake My Soul - Live At Shepherd's Bush Empire,spotify:track:5q10gEnaMstqOCE6kPxQZl,0.061,0.201,0.309,0.00148,0.699,-13.292,0.0326,94.53,0.181,0
-175,Sigh No More (Japanese Deluxe Version),7,2lILXxBqXlFObGenDplNGS,Little Lion Man - Live At Shepherd's Bush Empire,spotify:track:2lILXxBqXlFObGenDplNGS,0.059,0.275,0.684,6.02e-05,0.952,-9.451,0.0395,136.645,0.458,0
-176,Sigh No More (Japanese Deluxe Version),8,4csebqzR9zkGzTcKrGkBz5,Thistle & Weeds - Live At Shepherd's Bush Empire,spotify:track:4csebqzR9zkGzTcKrGkBz5,0.025,0.323,0.271,0.00011,0.843,-13.926,0.0318,133.581,0.173,0
-177,Sigh No More (Japanese Deluxe Version),9,1Fk9QlnFKMiN8e8IzZ3989,Timshel - Live At Shepherd's Bush Empire,spotify:track:1Fk9QlnFKMiN8e8IzZ3989,0.834,0.401,0.208,0.0,0.737,-17.126,0.0378,81.155,0.152,0
-178,Sigh No More (Japanese Deluxe Version),10,7cvX2ODC3KvKeApsJKJDfh,The Cave - Live At Shepherd's Bush Empire,spotify:track:7cvX2ODC3KvKeApsJKJDfh,0.0815,0.382,0.57,0.0,0.959,-10.999,0.0382,142.549,0.384,0
-179,Sigh No More (Japanese Deluxe Version),11,7JQd3Gt7XMZ45ue9pYHZ11,Dust Bowl Dance - Live At Shepherd's Bush Empire,spotify:track:7JQd3Gt7XMZ45ue9pYHZ11,0.214,0.354,0.468,0.00014,0.991,-14.411,0.0756,128.574,0.289,0
-180,Sigh No More (Japanese Deluxe Version),12,3z46wTqbwnZROCsh4sgfkj,Feel The Tide - Live At Shepherd's Bush Empire,spotify:track:3z46wTqbwnZROCsh4sgfkj,0.0265,0.339,0.645,4.63e-06,0.962,-12.494,0.067,136.651,0.381,9
-193,Babel (Deluxe),13,1YYB9tvXmJqme8Cbs8ZOBS,For Those Below - Bonus Track,spotify:track:1YYB9tvXmJqme8Cbs8ZOBS,0.558,0.518,0.451,0.00314,0.136,-9.592,0.0282,116.548,0.331,2
-194,Babel (Deluxe),14,2rK8rD9MwMVwXbzbybrEAG,The Boxer - Bonus Track,spotify:track:2rK8rD9MwMVwXbzbybrEAG,0.658,0.459,0.381,4.45e-05,0.0964,-10.804,0.0313,97.848,0.287,1
-195,Babel (Deluxe),15,18mw4WOBGjXEQRloon9WVA,Where Are You Now - Bonus Track,spotify:track:18mw4WOBGjXEQRloon9WVA,0.639,0.48,0.349,2.29e-06,0.105,-10.016,0.0425,83.931,0.0978,12
-196,Babel (Deluxe),1,4zsEOGDq0SvhNiSV3PcsAG,Lovers Eyes - Live,spotify:track:4zsEOGDq0SvhNiSV3PcsAG,0.264,0.348,0.428,0.00835,0.452,-6.602,0.0277,78.235,0.133,0
-200,Babel (Deluxe),5,79xocRv3Zdj2Z2Lgo156YM,Lover Of The Light - Live,spotify:track:79xocRv3Zdj2Z2Lgo156YM,0.0198,0.348,0.619,0.00199,0.759,-6.579,0.034,108.353,0.231,0
-203,Babel (Deluxe),8,3F7Yi9bBuxsB7gaLuPgNR8,Whispers In The Dark - Live,spotify:track:3F7Yi9bBuxsB7gaLuPgNR8,0.0411,0.306,0.685,0.00119,0.983,-6.858,0.0497,136.091,0.354,0
-208,Babel (Gentlemen Of The Road Edition),2,1Jp1ayAHjjPnDk3S22ZXPi,Whispers In The Dark,spotify:track:1Jp1ayAHjjPnDk3S22ZXPi,0.00396,0.405,0.778,0.00435,0.127,-6.833,0.0405,134.836,0.326,25
-222,Babel (Gentlemen Of The Road Edition),16,0qt6vReCFNRPkDzi18vOkK,"Lovers Eyes - Live From Redrocks, Colorado",spotify:track:0qt6vReCFNRPkDzi18vOkK,0.264,0.348,0.428,0.00835,0.452,-6.602,0.0277,78.235,0.133,25
-223,Babel (Gentlemen Of The Road Edition),17,7tEBO3SPMFho8f6iYhlmzW,"Little Lion Man - Live From Redrocks, Colorado",spotify:track:7tEBO3SPMFho8f6iYhlmzW,0.113,0.291,0.707,5.17e-06,0.746,-6.165,0.0349,133.498,0.295,28
-224,Babel (Gentlemen Of The Road Edition),18,2oDK6saXSASzl5CpFzYFwh,"Below My Feet - Live From Redrocks, Colorado",spotify:track:2oDK6saXSASzl5CpFzYFwh,0.048,0.3,0.589,0.00067,0.71,-8.337,0.0373,130.87,0.191,24
-225,Babel (Gentlemen Of The Road Edition),19,75GnNfiZGU6qCKEX7qU7l6,"Roll Away Your Stone - Live From Redrocks, Colorado",spotify:track:75GnNfiZGU6qCKEX7qU7l6,0.192,0.39,0.671,0.000149,0.789,-7.57,0.0386,133.427,0.341,24
-226,Babel (Gentlemen Of The Road Edition),20,4NNDFB6qzteFHOipsFFVnN,"Lover of the Light - Live From Redrocks, Colorado",spotify:track:4NNDFB6qzteFHOipsFFVnN,0.0198,0.348,0.619,0.00199,0.759,-6.579,0.034,108.353,0.231,24
-227,Babel (Gentlemen Of The Road Edition),21,6agwsBJAeMYvMEKwjInN6s,"Ghosts That We Knew - Live From Redrocks, Colorado",spotify:track:6agwsBJAeMYvMEKwjInN6s,0.456,0.415,0.229,0.000149,0.131,-11.418,0.0323,79.334,0.0999,24
-228,Babel (Gentlemen Of The Road Edition),22,1800a0auXYHPPTqN09Qx4Y,"Awake My Soul - Live From Redrocks, Colorado",spotify:track:1800a0auXYHPPTqN09Qx4Y,0.0942,0.302,0.412,0.00269,0.912,-9.282,0.0343,126.473,0.238,24
-229,Babel (Gentlemen Of The Road Edition),23,25LOmMPXjzEEI0uKaI9mOC,"Whispers In The Dark - Live From Redrocks, Colorado",spotify:track:25LOmMPXjzEEI0uKaI9mOC,0.0411,0.306,0.685,0.00119,0.983,-6.858,0.0497,136.091,0.354,23
-230,Babel (Gentlemen Of The Road Edition),24,2MTC6UUoe70CX6o9EbqKox,"Dustbowl Dance - Live From Redrocks, Colorado",spotify:track:2MTC6UUoe70CX6o9EbqKox,0.317,0.376,0.637,9.29e-06,0.918,-8.665,0.0697,125.134,0.388,24
-231,Babel (Gentlemen Of The Road Edition),25,3Le2PbLGKFQpFiF8wVKWyh,"I Will Wait - Live From Redrocks, Colorado",spotify:track:3Le2PbLGKFQpFiF8wVKWyh,0.00392,0.284,0.751,0.0005,0.971,-5.459,0.0374,133.971,0.236,26
-232,Babel (Gentlemen Of The Road Edition),26,1MPU5wgvxhfl6xvjG4PJKQ,"The Cave - Live From Redrocks, Colorado",spotify:track:1MPU5wgvxhfl6xvjG4PJKQ,0.041,0.387,0.671,8.26e-05,0.977,-6.55,0.04,137.708,0.326,26
-233,The Road To Red Rocks (Live),1,1Ft4jTAnfax4lZN0sEt1T1,Lovers' Eyes - Live,spotify:track:1Ft4jTAnfax4lZN0sEt1T1,0.249,0.354,0.419,0.0061,0.326,-6.815,0.0277,77.678,0.117,39
-234,The Road To Red Rocks (Live),2,29Azy1tQfpyIYlaYgATQXx,Little Lion Man - Live,spotify:track:29Azy1tQfpyIYlaYgATQXx,0.12,0.294,0.68,5.77e-06,0.746,-6.358,0.0342,133.638,0.288,40
-235,The Road To Red Rocks (Live),3,0NWljYXJiJOUg0XBxK8OVx,Below My Feet - Live,spotify:track:0NWljYXJiJOUg0XBxK8OVx,0.034,0.304,0.557,0.000718,0.71,-8.608,0.0362,133.254,0.219,38
-236,The Road To Red Rocks (Live),4,7g8MUu8cMWXkLNf6uhWQjH,Roll Away Your Stone - Live,spotify:track:7g8MUu8cMWXkLNf6uhWQjH,0.182,0.412,0.668,0.000118,0.494,-7.825,0.036,133.609,0.334,38
-237,The Road To Red Rocks (Live),5,12Ufw49t2CxJSdJEgSJi8Z,Lover of the Light - Live,spotify:track:12Ufw49t2CxJSdJEgSJi8Z,0.0243,0.356,0.624,0.00172,0.748,-6.752,0.036,108.697,0.23,38
-238,The Road To Red Rocks (Live),6,2VkiDC0JxFZJ1dZCCkfvBK,Ghosts That We Knew - Live,spotify:track:2VkiDC0JxFZJ1dZCCkfvBK,0.473,0.411,0.227,6.66e-05,0.124,-11.592,0.0309,79.099,0.113,38
-239,The Road To Red Rocks (Live),7,0ZX9M8zNqdNp7PcAWpCQuc,Awake My Soul - Live,spotify:track:0ZX9M8zNqdNp7PcAWpCQuc,0.0862,0.301,0.389,0.0032,0.912,-9.477,0.0346,126.11,0.266,39
-240,The Road To Red Rocks (Live),8,01AfWkYX3t6yqrAx3AeSFp,Whispers In the Dark - Live,spotify:track:01AfWkYX3t6yqrAx3AeSFp,0.0359,0.294,0.663,0.00114,0.98,-7.034,0.0511,136.153,0.372,36
-241,The Road To Red Rocks (Live),9,3jnDoz38T3avO8K9OOZbZi,Dustbowl Dance - Live,spotify:track:3jnDoz38T3avO8K9OOZbZi,0.332,0.373,0.623,5.68e-06,0.918,-8.913,0.0757,125.34,0.367,37
-242,The Road To Red Rocks (Live),10,20vFR4YcIHGnh25eVLrATu,I Will Wait - Live,spotify:track:20vFR4YcIHGnh25eVLrATu,0.00398,0.284,0.729,0.000605,0.968,-5.665,0.0389,134.353,0.243,40
-243,The Road To Red Rocks (Live),11,7s1qjeCvMFfnDlZLT9KE3F,The Cave - Live,spotify:track:7s1qjeCvMFfnDlZLT9KE3F,0.0381,0.378,0.657,0.000378,0.976,-6.84,0.0402,137.799,0.325,38
-244,Sigh No More (Benelux Edition),1,7sY2PhhgC83TbsYvDD62xD,Sigh No More,spotify:track:7sY2PhhgC83TbsYvDD62xD,0.021,0.487,0.343,0.00025,0.275,-10.102,0.0303,147.56,0.173,36
-245,Sigh No More (Benelux Edition),2,2wT4SF6jRAl0GZvLO3QLeh,The Cave,spotify:track:2wT4SF6jRAl0GZvLO3QLeh,0.0453,0.595,0.51,0.000155,0.105,-9.489,0.0378,141.978,0.355,54
-246,Sigh No More (Benelux Edition),3,115tQX2GdUBbnP8uC864M8,Winter Winds,spotify:track:115tQX2GdUBbnP8uC864M8,0.213,0.233,0.508,0.0,0.348,-7.033,0.0315,82.532,0.403,41
-247,Sigh No More (Benelux Edition),4,526wCjfRmLHrUeqkLXH6Dg,Roll Away Your Stone,spotify:track:526wCjfRmLHrUeqkLXH6Dg,0.0561,0.435,0.555,6.72e-05,0.0885,-8.989,0.0501,137.083,0.185,36
-248,Sigh No More (Benelux Edition),5,6KqvjIj2V1nwSvl4uM48Ev,White Blank Page,spotify:track:6KqvjIj2V1nwSvl4uM48Ev,0.201,0.322,0.416,7.8e-06,0.553,-9.806,0.0344,110.417,0.286,42
-249,Sigh No More (Benelux Edition),6,1IpFLCn8FvVE6Wy0jO5FlM,I Gave You All,spotify:track:1IpFLCn8FvVE6Wy0jO5FlM,0.414,0.376,0.313,0.00338,0.11,-12.986,0.039,114.177,0.0394,37
-250,Sigh No More (Benelux Edition),7,1QTixxvaGxwe6GF8PBwAve,Little Lion Man,spotify:track:1QTixxvaGxwe6GF8PBwAve,0.0244,0.515,0.496,7.24e-06,0.0895,-8.018,0.0275,138.61,0.442,57
-251,Sigh No More (Benelux Edition),8,5DD5PUHdtQGDb19XOfrM3b,Timshel,spotify:track:5DD5PUHdtQGDb19XOfrM3b,0.862,0.362,0.267,3.77e-05,0.112,-9.765,0.0329,165.238,0.0885,36
-252,Sigh No More (Benelux Edition),9,34UBpauaMJ964MuCNKkSdT,Thistle & Weeds,spotify:track:34UBpauaMJ964MuCNKkSdT,0.014,0.266,0.322,6.89e-05,0.139,-11.151,0.0351,172.639,0.0457,34
-253,Sigh No More (Benelux Edition),10,037wkgyR90kvcxXdhgcUTy,Awake My Soul,spotify:track:037wkgyR90kvcxXdhgcUTy,0.0555,0.35,0.46,0.0326,0.0902,-10.105,0.0362,124.071,0.188,43
-254,Sigh No More (Benelux Edition),11,6M8H93aIiXfecfmbdUL5zm,Dust Bowl Dance,spotify:track:6M8H93aIiXfecfmbdUL5zm,0.0564,0.407,0.588,0.0047,0.365,-8.195,0.0445,116.074,0.283,35
-255,Sigh No More (Benelux Edition),12,0481BMfx2vPLxr2gWoWFsq,After The Storm,spotify:track:0481BMfx2vPLxr2gWoWFsq,0.902,0.426,0.17,6.27e-05,0.109,-13.417,0.0368,78.071,0.107,41
-256,Sigh No More (Benelux Edition),13,4kawreR33ZsKhz6p1mxgu4,Sigh No More - Live at Studio Brussel,spotify:track:4kawreR33ZsKhz6p1mxgu4,0.301,0.329,0.559,0.00165,0.988,-9.388,0.0443,152.437,0.16,27
-257,Sigh No More (Benelux Edition),14,2MwkIdJ1tk5vY2PTUFYzIP,Awake My Soul - Live at Studio Brussel,spotify:track:2MwkIdJ1tk5vY2PTUFYzIP,0.0292,0.31,0.409,0.314,0.674,-9.21,0.0309,123.107,0.137,27
-258,Sigh No More (Benelux Edition),15,5LRMEBN12GLYbGiKJexL8R,White Blank Page - Live at Studio Brussel,spotify:track:5LRMEBN12GLYbGiKJexL8R,0.434,0.34,0.431,0.00108,0.719,-8.911,0.0326,137.35,0.312,27
-259,Sigh No More (Benelux Edition),16,5IsKD0wEN6TFuaIYMkZcV0,Timshel - Live at Studio Brussel,spotify:track:5IsKD0wEN6TFuaIYMkZcV0,0.919,0.351,0.23,1.15e-05,0.698,-10.03,0.0345,162.025,0.081,26
-260,Sigh No More (Benelux Edition),17,0HSX6lwa2FVj2jGIlbAmHk,The Cave - Live at Studio Brussel,spotify:track:0HSX6lwa2FVj2jGIlbAmHk,0.626,0.364,0.585,0.00939,0.743,-8.095,0.0325,145.03,0.425,28
-293,Babel,6,2solXbKcrcuJqrPGMn8Ski,Lover Of The Light,spotify:track:2solXbKcrcuJqrPGMn8Ski,0.00776,0.301,0.69,0.000643,0.273,-6.853,0.0513,106.758,0.368,37
-299,Babel,12,5nosBLH4xcyAWIn65JiFqX,Not With Haste,spotify:track:5nosBLH4xcyAWIn65JiFqX,0.556,0.373,0.475,0.000247,0.111,-9.593,0.0296,100.354,0.123,33
-300,Babel (Deluxe Version),1,7nhItJUpHMXJURhZNyXHJs,Babel,spotify:track:7nhItJUpHMXJURhZNyXHJs,0.0253,0.373,0.813,0.000227,0.0826,-6.13,0.0543,80.465,0.647,60
-301,Babel (Deluxe Version),2,0l58YQ6trzdxO3C9XFczZS,Whispers in the Dark,spotify:track:0l58YQ6trzdxO3C9XFczZS,0.00382,0.385,0.73,0.00278,0.123,-7.82,0.0409,134.659,0.36,50
-302,Babel (Deluxe Version),3,0hm8rgOY17z7kQJlqGKbu7,I Will Wait,spotify:track:0hm8rgOY17z7kQJlqGKbu7,0.00993,0.48,0.756,0.00704,0.312,-5.399,0.0333,131.127,0.447,71
-303,Babel (Deluxe Version),4,4Bjugv3EniVJFRc52mA5bX,Holland Road,spotify:track:4Bjugv3EniVJFRc52mA5bX,0.0887,0.451,0.703,9.49e-05,0.103,-6.406,0.0356,79.306,0.404,52
-304,Babel (Deluxe Version),5,4ClTOGZc8kcb8l58Vx5z5A,Ghosts That We Knew,spotify:track:4ClTOGZc8kcb8l58Vx5z5A,0.552,0.44,0.276,0.00695,0.112,-12.151,0.0407,79.907,0.077,56
-305,Babel (Deluxe Version),6,48dghEx4vhyQQfFLwxPfHD,Lover of the Light,spotify:track:48dghEx4vhyQQfFLwxPfHD,0.00776,0.301,0.69,0.000643,0.273,-6.853,0.0513,106.758,0.368,60
-306,Babel (Deluxe Version),7,7rMDB1bKHO0Sh8oTWWvdsJ,Lovers' Eyes,spotify:track:7rMDB1bKHO0Sh8oTWWvdsJ,0.0305,0.267,0.337,1.9e-05,0.097,-9.713,0.0339,77.945,0.274,52
-307,Babel (Deluxe Version),8,4VrAGmxlj3ofLclSo5x7SF,Reminder,spotify:track:4VrAGmxlj3ofLclSo5x7SF,0.879,0.506,0.17,0.00025,0.0645,-13.236,0.043,114.729,0.213,50
-308,Babel (Deluxe Version),9,7rME25EmgXGVPQqKtU4CIK,Hopeless Wanderer,spotify:track:7rME25EmgXGVPQqKtU4CIK,0.0137,0.268,0.578,0.00281,0.106,-7.796,0.0383,154.204,0.201,61
-309,Babel (Deluxe Version),10,3xyfjVAwx5OAdhs40MtRxE,Broken Crown,spotify:track:3xyfjVAwx5OAdhs40MtRxE,0.00746,0.412,0.625,0.000938,0.152,-8.891,0.0386,128.134,0.265,57
-310,Babel (Deluxe Version),11,0cBDCol7TFmvpT4A4YpxV3,Below My Feet,spotify:track:0cBDCol7TFmvpT4A4YpxV3,0.0591,0.454,0.415,0.00361,0.0831,-9.554,0.0359,129.621,0.136,53
-311,Babel (Deluxe Version),12,0cduKQMGWmt9nIPJa0QtQ9,Not with Haste,spotify:track:0cduKQMGWmt9nIPJa0QtQ9,0.556,0.373,0.475,0.000247,0.111,-9.593,0.0296,100.354,0.123,49
-312,Babel (Deluxe Version),13,6RF26DwHBGUCrDps8qI4OH,For Those Below,spotify:track:6RF26DwHBGUCrDps8qI4OH,0.572,0.366,0.441,0.00201,0.133,-9.979,0.0303,116.55,0.312,45
-313,Babel (Deluxe Version),14,04Dqz6T7vL4APHblHSdR4q,The Boxer,spotify:track:04Dqz6T7vL4APHblHSdR4q,0.649,0.467,0.37,4.42e-05,0.0949,-11.231,0.032,98.646,0.272,47
-314,Babel (Deluxe Version),15,1fbiarYX9ZHCDLp4mj8XHA,Where Are You Now,spotify:track:1fbiarYX9ZHCDLp4mj8XHA,0.643,0.518,0.347,2.13e-06,0.532,-10.319,0.0401,84.18,0.122,56
+Delta,turn,5
+Delta,choice,2
+Delta,presume,1
+Delta,much,2
+Delta,sure,3
+Delta,need,3
+Delta,darkest,2
+Delta,turns,2
+Delta,last,1
+Delta,hope,5
+Delta,would,4
+Delta,see,18
+Delta,sign,6
+Delta,oh,3
+Delta,well,16
+Delta,running,1
+Delta,ashes,1
+Delta,left,6
+Delta,forgiveness,1
+Delta,speaks,1
+Delta,forget,4
+Delta,stain,1
+Delta,time,9
+Delta,wanna,1
+Delta,give,2
+Delta,us,6
+Delta,guiding,5
+Delta,light,14
+Delta,children,3
+Delta,darkness,4
+Delta,ohday,1
+Delta,permanent,1
+Delta,red,1
+Delta,glaze,1
+Delta,eyes,18
+Delta,heard,1
+Delta,voice,1
+Delta,distance,1
+Delta,caught,1
+Delta,surprise,2
+Delta,know,41
+Delta,claim,1
+Delta,alright,3
+Delta,fix,3
+Delta,guess,3
+Delta,swear,1
+Delta,dawn,1
+Delta,line,4
+Delta,sit,6
+Delta,folded,4
+Delta,hands,5
+Delta,become,4
+Delta,blind,5
+Delta,even,4
+Delta,star,4
+Delta,sight,4
+Delta,always,8
+Delta,relate,1
+Delta,youth,1
+Delta,still,6
+Delta,awe,5
+Delta,discover,1
+Delta,new,1
+Delta,truth,2
+Delta,wrapped,1
+Delta,around,5
+Delta,slip,7
+Delta,away,16
+Delta,night,12
+Delta,hurl,1
+Delta,words,10
+Delta,high,1
+Delta,come,8
+Delta,back,6
+Delta,broken,1
+Delta,unworthy,1
+Delta,ashamed,1
+Delta,something,4
+Delta,believe,1
+Delta,go,5
+Delta,way,12
+Delta,lightwoman,1
+Delta,cupped,1
+Delta,hand,2
+Delta,burning,1
+Delta,ice,1
+Delta,tangled,2
+Delta,morning,1
+Delta,white,2
+Delta,ever,11
+Delta,really,6
+Delta,woman,5
+Delta,watch,2
+Delta,take,6
+Delta,lets,1
+Delta,call,2
+Delta,mine,8
+Delta,loneliness,1
+Delta,long,7
+Delta,hear,1
+Delta,frosty,1
+Delta,inside,1
+Delta,gone,6
+Delta,read,3
+Delta,mind,12
+Delta,though,4
+Delta,trying,3
+Delta,descends,3
+Delta,slow,3
+Delta,adore,2
+Delta,never,14
+Delta,burn,1
+Delta,say,11
+Delta,sun,2
+Delta,shine,10
+Delta,learning,1
+Delta,true,1
+Delta,adoresit,1
+Delta,enthroned,1
+Delta,grandeur,1
+Delta,tired,1
+Delta,shift,1
+Delta,whisper,3
+Delta,wayward,1
+Delta,silver,2
+Delta,hair,2
+Delta,seen,1
+Delta,unkempt,1
+Delta,"darling,1
+Delta,close,2
+Delta,door",1
+Delta,made,2
+Delta,note,1
+Delta,every,2
+Delta,word,1
+Delta,said,3
+Delta,side,1
+Delta,pretend,2
+Delta,says,1
+Delta,lord,1
+Delta,plan,1
+Delta,admits,1
+Delta,pretty,1
+Delta,hard,1
+Delta,understand,1
+Delta,leave,9
+Delta,must,3
+Delta,beloved,5
+Delta,remember,2
+Delta,afraid,3
+Delta,however,1
+Delta,could,4
+Delta,rosy,1
+Delta,strange,1
+Delta,mirror,1
+Delta,pointing,2
+Delta,put,5
+Delta,feathered,1
+Delta,arms,6
+Delta,hold,6
+Delta,talk,1
+Delta,stars,1
+Delta,sky,1
+Delta,fire,2
+Delta,love,57
+Delta,wild,14
+Delta,playing,1
+Delta,feetsaw,1
+Delta,birth,1
+Delta,death,1
+Delta,makes,5
+Delta,kind,1
+Delta,comes,3
+Delta,sparkling,1
+Delta,tied,1
+Delta,knot,1
+Delta,forgot,1
+Delta,think,6
+Delta,puts,2
+Delta,fear,3
+Delta,god,1
+Delta,grudge,1
+Delta,dust,5
+Delta,inconceivable,1
+Delta,lie,2
+Delta,godsilver,1
+Delta,silhouette,3
+Delta,quickening,1
+Delta,haze,1
+Delta,brand,2
+Delta,let,9
+Delta,wandering,3
+Delta,ooh,6
+Delta,endures,3
+Delta,faith,1
+Delta,rest,2
+Delta,blinded,1
+Delta,lights,1
+Delta,october,1
+Delta,skies,1
+Delta,postcard,1
+Delta,memories,1
+Delta,evade,1
+Delta,valley,1
+Delta,free,1
+Delta,hills,1
+Delta,soar,1
+Delta,crippling,1
+Delta,eye,2
+Delta,hopequestions,1
+Delta,lies,1
+Delta,deal,2
+Delta,surprises,2
+Delta,waiting,2
+Delta,patient,1
+Delta,rise,1
+Delta,reveals,1
+Delta,stoic,1
+Delta,smile,2
+Delta,find,9
+Delta,suffer,2
+Delta,holding,3
+Delta,breath,6
+Delta,violence,1
+Delta,better,7
+Delta,knees,2
+Delta,gently,3
+Delta,betterfold,1
+Delta,behind,2
+Delta,ears,1
+Delta,roll,1
+Delta,questions,1
+Delta,across,1
+Delta,floor,2
+Delta,years,1
+Delta,least,1
+Delta,finds,1
+Delta,peace,3
+Delta,shade,1
+Delta,attention,1
+Delta,gets,1
+Delta,thinking,2
+Delta,surround,2
+Delta,deep,6
+Delta,world,2
+Delta,curse,2
+Delta,lungs,2
+Delta,song,2
+Delta,sung,2
+Delta,lives,3
+Delta,entwined,2
+Delta,rose,4
+Delta,sharon,4
+Delta,crashing,1
+Delta,like,10
+Delta,wildfire,1
+Delta,door,1
+Delta,wanting,1
+Delta,wish,1
+Delta,grand,1
+Delta,sense,4
+Delta,occasion,1
+Delta,another,1
+Delta,done,2
+Delta,forever,10
+Delta,forevercould,1
+Delta,tell,3
+Delta,thought,2
+Delta,best,1
+Delta,coming,1
+Delta,visible,2
+Delta,stone,1
+Delta,feel,10
+Delta,rising,2
+Delta,gathering,1
+Delta,storm,1
+Delta,heartbeat,8
+Delta,fight,3
+Delta,hide,2
+Delta,picture,5
+Delta,soaked,2
+Delta,doubt,6
+Delta,chaos,2
+Delta,calls,2
+Delta,feels,6
+Delta,nothing,9
+Delta,falls,1
+Delta,fast,1
+Delta,heavy,1
+Delta,skin,1
+Delta,thus,1
+Delta,barely,1
+Delta,embracing,1
+Delta,denial,1
+Delta,waste,3
+Delta,picturedwell,1
+Delta,adamantine,1
+Delta,chains,1
+Delta,penal,1
+Delta,durst,1
+Delta,defy,1
+Delta,omnipotent,1
+Delta,nine,1
+Delta,times,1
+Delta,space,1
+Delta,measures,1
+Delta,day,1
+Delta,rolling,1
+Delta,fiery,1
+Delta,gulf,1
+Delta,confounded,1
+Delta,immortal,1
+Delta,doom,1
+Delta,reserved,1
+Delta,wrath,1
+Delta,lost,1
+Delta,happiness,1
+Delta,lasting,1
+Delta,pain,2
+Delta,torments,1
+Delta,round,2
+Delta,throws,1
+Delta,baleful,1
+Delta,witnessed,1
+Delta,huge,1
+Delta,affliction,1
+Delta,dismay,1
+Delta,mixed,1
+Delta,obdurate,1
+Delta,pride,1
+Delta,steadfast,1
+Delta,hate,1
+Delta,far,1
+Delta,angels,1
+Delta,ken,1
+Delta,views,1
+Delta,dismal,1
+Delta,situation,1
+Delta,dungeon,1
+Delta,horrible,1
+Delta,sides,1
+Delta,regions,1
+Delta,sorrow,1
+Delta,doleful,1
+Delta,shades,1
+Delta,dwell,1
+Delta,torture,1
+Delta,without,5
+Delta,end,2
+Delta,urges,1
+Delta,one,3
+Delta,great,1
+Delta,furnace,1
+Delta,flamed,1
+Delta,yet,1
+Delta,flames,1
+Delta,rather,1
+Delta,visiblecame,1
+Delta,sorry,1
+Delta,thank,1
+Delta,saving,1
+Delta,trouble,2
+Delta,want,2
+Delta,given,1
+Delta,chance,1
+Delta,bring,2
+Delta,on,2
+Delta,you,10
+Delta,innocence,1
+Delta,face,4
+Delta,bled,1
+Delta,trace,1
+Delta,enemy,1
+Delta,ill,1
+Delta,remedy,1
+Delta,bleeds,1
+Delta,came,2
+Delta,mean,2
+Delta,show,3
+Delta,cleaner,1
+Delta,cross,1
+Delta,drier,1
+Delta,soul,1
+Delta,survives,1
+Delta,lovemortal,1
+Delta,making,1
+Delta,out,1
+Delta,forbidden,1
+Delta,listening,2
+Delta,get,1
+Delta,do,1
+Delta,tonight,2
+Delta,anyway,4
+Delta,jaw,1
+Delta,kiss,1
+Delta,took,6
+Delta,heart,11
+Delta,tame,3
+Delta,charm,3
+Delta,floored,3
+Delta,everlasting,6
+Delta,glance,5
+Delta,wants,2
+Delta,asked,2
+Delta,it,1
+Delta,brutal,1
+Delta,unchained,1
+Delta,sounds,1
+Delta,improvised,1
+Delta,whatever,1
+Delta,inspired,2
+Delta,armed,1
+Delta,tear,1
+Delta,sleight,1
+Delta,tongue,1
+Delta,keep,1
+Delta,keeping,1
+Delta,glanceknow,1
+Delta,troubled,1
+Delta,seared,1
+Delta,dreams,1
+Delta,many,1
+Delta,besides,1
+Delta,slowly,1
+Delta,die,1
+Delta,spending,2
+Delta,london,2
+Delta,girl,5
+Delta,returning,2
+Delta,days,2
+Delta,defend,2
+Delta,gold,2
+Delta,dare,6
+Delta,stay,6
+Delta,known,1
+Delta,pious,2
+Delta,women,1
+Delta,led,1
+Delta,secret,1
+Delta,shameless,1
+Delta,dark,1
+Delta,shameful,1
+Delta,may,2
+Delta,saved,1
+Delta,live,1
+Delta,quite,1
+Delta,happily,1
+Delta,quietly,1
+Delta,unfazed,1
+Delta,dreaming,1
+Delta,liffey,1
+Delta,thames,1
+Delta,east,1
+Delta,river,1
+Delta,flows,1
+Delta,sentimental,1
+Delta,look,1
+Delta,stare,1
+Delta,foreverlie,1
+Delta,offered,1
+Delta,cup,1
+Delta,upon,1
+Delta,stories,1
+Delta,weep,1
+Delta,empty,1
+Delta,vessels,1
+Delta,place,1
+Delta,scream,1
+Delta,shadows,1
+Delta,good,6
+Delta,walk,2
+Delta,me,2
+Delta,meet,2
+Delta,delta,2
+Delta,rivers,1
+Delta,run,1
+Delta,sea,1
+Delta,clearly,1
+Delta,beyond,2
+Delta,else,4
+Delta,matters,4
+Delta,prefer,5
+Delta,make,4
+Delta,nothingness,2
+Delta,means,2
+Wilder Mind,oh,9
+Wilder Mind,babe,5
+Wilder Mind,meet,1
+Wilder Mind,tompkins,1
+Wilder Mind,square,1
+Wilder Mind,park,1
+Wilder Mind,wanna,4
+Wilder Mind,hold,7
+Wilder Mind,dark,4
+Wilder Mind,one,11
+Wilder Mind,last,9
+Wilder Mind,time,8
+Wilder Mind,tell,12
+Wilder Mind,guess,5
+Wilder Mind,twilight,2
+Wilder Mind,flame,5
+Wilder Mind,burns,3
+Wilder Mind,forever,3
+Wilder Mind,know,19
+Wilder Mind,well,8
+Wilder Mind,even,14
+Wilder Mind,night,11
+Wilder Mind,say,13
+Wilder Mind,never,6
+Wilder Mind,lost,2
+Wilder Mind,hear,3
+Wilder Mind,lie,2
+Wilder Mind,really,2
+Wilder Mind,wish,1
+Wilder Mind,would,9
+Wilder Mind,cry,4
+Wilder Mind,ever,9
+Wilder Mind,told,1
+Wilder Mind,could,3
+Wilder Mind,thousand,2
+Wilder Mind,might,1
+Wilder Mind,talk,1
+Wilder Mind,round,8
+Wilder Mind,girl,1
+Wilder Mind,leave,11
+Wilder Mind,die,1
+Wilder Mind,out,1
+Wilder Mind,tried,3
+Wilder Mind,trick,1
+Wilder Mind,work,1
+Wilder Mind,swallowed,1
+Wilder Mind,doubt,1
+Wilder Mind,things,3
+Wilder Mind,black,1
+Wilder Mind,white,1
+Wilder Mind,want,11
+Wilder Mind,tight,3
+Wilder Mind,without,4
+Wilder Mind,holding,3
+Wilder Mind,back,6
+Wilder Mind,mind,15
+Wilder Mind,nightmay,1
+Wilder Mind,call,3
+Wilder Mind,evening,1
+Wilder Mind,preset,1
+Wilder Mind,pretty,1
+Wilder Mind,feelings,1
+Wilder Mind,may,1
+Wilder Mind,comfort,1
+Wilder Mind,tonight,4
+Wilder Mind,climbing,1
+Wilder Mind,something,4
+Wilder Mind,running,1
+Wilder Mind,halls,1
+Wilder Mind,believe,9
+Wilder Mind,everything,3
+Wilder Mind,trying,4
+Wilder Mind,strangest,1
+Wilder Mind,feeling,1
+Wilder Mind,seems,1
+Wilder Mind,tired,1
+Wilder Mind,misconceiving,1
+Wilder Mind,else,3
+Wilder Mind,open,4
+Wilder Mind,eyes,11
+Wilder Mind,alive,6
+Wilder Mind,gonna,6
+Wilder Mind,go,7
+Wilder Mind,way,4
+Wilder Mind,like,3
+Wilder Mind,love,25
+Wilder Mind,unless,1
+Wilder Mind,move,2
+Wilder Mind,away,2
+Wilder Mind,noise,1
+Wilder Mind,anything,1
+Wilder Mind,mindwide-eyed,1
+Wilder Mind,heart,2
+Wilder Mind,made,4
+Wilder Mind,full,1
+Wilder Mind,fright,2
+Wilder Mind,follow,1
+Wilder Mind,tracers,1
+Wilder Mind,tightrope,1
+Wilder Mind,wander,1
+Wilder Mind,every,4
+Wilder Mind,weighed,1
+Wilder Mind,found,1
+Wilder Mind,wanting,1
+Wilder Mind,wondering,4
+Wilder Mind,days,4
+Wilder Mind,felt,4
+Wilder Mind,slip,5
+Wilder Mind,behind,4
+Wilder Mind,wanton,4
+Wilder Mind,ways,5
+Wilder Mind,learn,3
+Wilder Mind,kind,4
+Wilder Mind,longed,3
+Wilder Mind,sheltered,1
+Wilder Mind,better,1
+Wilder Mind,keep,11
+Wilder Mind,wolf,1
+Wilder Mind,door,1
+Wilder Mind,wanders,1
+Wilder Mind,closer,1
+Wilder Mind,waits,1
+Wilder Mind,baying,1
+Wilder Mind,blood,2
+Wilder Mind,promised,1
+Wilder Mind,fine,1
+Wilder Mind,gaze,1
+Wilder Mind,wont,1
+Wilder Mind,let,3
+Wilder Mind,stare,1
+Wilder Mind,wonder,1
+Wilder Mind,i,2
+Wilder Mind,look,3
+Wilder Mind,eye,2
+Wilder Mind,longedblood,1
+Wilder Mind,water,2
+Wilder Mind,try,3
+Wilder Mind,tame,2
+Wilder Mind,me,1
+Wilder Mind,start,2
+Wilder Mind,din,1
+Wilder Mind,flash,1
+Wilder Mind,flesh,1
+Wilder Mind,desperate,1
+Wilder Mind,need,2
+Wilder Mind,rise,1
+Wilder Mind,silver,3
+Wilder Mind,crystal,2
+Wilder Mind,used,3
+Wilder Mind,shine,2
+Wilder Mind,place,4
+Wilder Mind,safe,2
+Wilder Mind,harm,3
+Wilder Mind,blessed,2
+Wilder Mind,wilder,2
+Wilder Mind,little,4
+Wilder Mind,thing,4
+Wilder Mind,nobody,2
+Wilder Mind,drown,2
+Wilder Mind,street,2
+Wilder Mind,beholden,1
+Wilder Mind,find,1
+Wilder Mind,awake,1
+Wilder Mind,waiting,4
+Wilder Mind,edge,3
+Wilder Mind,sleep,2
+Wilder Mind,sound,4
+Wilder Mind,drinking,1
+Wilder Mind,cup,1
+Wilder Mind,broken,2
+Wilder Mind,ends,1
+Wilder Mind,thought,10
+Wilder Mind,believed,2
+Wilder Mind,endless,2
+Wilder Mind,lovetell,1
+Wilder Mind,thoughts,1
+Wilder Mind,resign,1
+Wilder Mind,lift,1
+Wilder Mind,ready,2
+Wilder Mind,strong,1
+Wilder Mind,enough,2
+Wilder Mind,cradle,1
+Wilder Mind,weight,1
+Wilder Mind,take,9
+Wilder Mind,minute,1
+Wilder Mind,breath,1
+Wilder Mind,lay,1
+Wilder Mind,head,1
+Wilder Mind,sunken,1
+Wilder Mind,chest,1
+Wilder Mind,saw,8
+Wilder Mind,flicker,1
+Wilder Mind,smoke,1
+Wilder Mind,left,3
+Wilder Mind,calling,1
+Wilder Mind,name,4
+Wilder Mind,done,6
+Wilder Mind,young,11
+Wilder Mind,us,6
+Wilder Mind,fell,1
+Wilder Mind,ground,1
+Wilder Mind,see,3
+Wilder Mind,whimper,1
+Wilder Mind,mouth,1
+Wilder Mind,breathe,1
+Wilder Mind,words,3
+Wilder Mind,peace,4
+Wilder Mind,silence,1
+Wilder Mind,gives,1
+Wilder Mind,nothing,5
+Wilder Mind,shadow,1
+Wilder Mind,lent,1
+Wilder Mind,kiss,1
+Wilder Mind,erased,1
+Wilder Mind,whisper,1
+Wilder Mind,wind,1
+Wilder Mind,hands,4
+Wilder Mind,shaking,1
+Wilder Mind,long,1
+Wilder Mind,burnt,1
+Wilder Mind,empty,2
+Wilder Mind,got,2
+Wilder Mind,youngdice,1
+Wilder Mind,late,1
+Wilder Mind,come,5
+Wilder Mind,dance,2
+Wilder Mind,arms,4
+Wilder Mind,kept,1
+Wilder Mind,coming,1
+Wilder Mind,fire,1
+Wilder Mind,unquenched,1
+Wilder Mind,curse,8
+Wilder Mind,beauty,5
+Wilder Mind,queen,3
+Wilder Mind,return,2
+Wilder Mind,face,4
+Wilder Mind,makes,2
+Wilder Mind,body,2
+Wilder Mind,burn,2
+Wilder Mind,sons,2
+Wilder Mind,learn:,2
+Wilder Mind,weak,1
+Wilder Mind,knees,1
+Wilder Mind,best,1
+Wilder Mind,sworn,1
+Wilder Mind,spirit,1
+Wilder Mind,fully,1
+Wilder Mind,fleshed,1
+Wilder Mind,fuck,1
+Wilder Mind,dreams,2
+Wilder Mind,pick,1
+Wilder Mind,seams,1
+Wilder Mind,turn,1
+Wilder Mind,monster,1
+Wilder Mind,you,1
+Wilder Mind,pay,1
+Wilder Mind,none,1
+Wilder Mind,counts,1
+Wilder Mind,plowed,1
+Wilder Mind,leavehold,1
+Wilder Mind,it,1
+Wilder Mind,flow,1
+Wilder Mind,cruelty,1
+Wilder Mind,youth,1
+Wilder Mind,fall,1
+Wilder Mind,alone,7
+Wilder Mind,compromise,1
+Wilder Mind,truth,5
+Wilder Mind,always,8
+Wilder Mind,danger,3
+Wilder Mind,stakes,1
+Wilder Mind,remain,1
+Wilder Mind,high,1
+Wilder Mind,silent,1
+Wilder Mind,shake,1
+Wilder Mind,lonely,1
+Wilder Mind,itch,1
+Wilder Mind,courses,1
+Wilder Mind,spine,1
+Wilder Mind,divine,2
+Wilder Mind,excuse,1
+Wilder Mind,seek,2
+Wilder Mind,earth,1
+Wilder Mind,around,1
+Wilder Mind,feet,1
+Wilder Mind,abandon,3
+Wilder Mind,greets,1
+Wilder Mind,snake,1
+Wilder Mind,precious,5
+Wilder Mind,eyes!,2
+Wilder Mind,danger!,1
+Wilder Mind,tonight!,1
+Wilder Mind,danger!broad-shouldered,1
+Wilder Mind,beasts,1
+Wilder Mind,fill,1
+Wilder Mind,sky,1
+Wilder Mind,manhattan,1
+Wilder Mind,beats,2
+Wilder Mind,wrapped,1
+Wilder Mind,wire,1
+Wilder Mind,curled,1
+Wilder Mind,took,3
+Wilder Mind,city,1
+Wilder Mind,dizzy,1
+Wilder Mind,lights,1
+Wilder Mind,moment,2
+Wilder Mind,wild,1
+Wilder Mind,child,1
+Wilder Mind,said,4
+Wilder Mind,free,2
+Wilder Mind,needed,2
+Wilder Mind,floored,2
+Wilder Mind,fear,3
+Wilder Mind,alright,7
+Wilder Mind,apartment,1
+Wilder Mind,walls,1
+Wilder Mind,paper,1
+Wilder Mind,thin,1
+Wilder Mind,listen,1
+Wilder Mind,doubts,1
+Wilder Mind,whispered,2
+Wilder Mind,shouts,1
+Wilder Mind,care,1
+Wilder Mind,feel,3
+Wilder Mind,world,4
+Wilder Mind,wrapping,2
+Wilder Mind,neck,2
+Wilder Mind,hand,1
+Wilder Mind,succumb,1
+Wilder Mind,takeweekend,1
+Wilder Mind,wreckers,1
+Wilder Mind,strains,1
+Wilder Mind,bedroom,1
+Wilder Mind,bloodshot,1
+Wilder Mind,beat,1
+Wilder Mind,god,2
+Wilder Mind,knows,2
+Wilder Mind,put,2
+Wilder Mind,nowhere,4
+Wilder Mind,torn,1
+Wilder Mind,bleed,1
+Wilder Mind,works,1
+Wilder Mind,two,1
+Wilder Mind,maybe,1
+Wilder Mind,cold,3
+Wilder Mind,staytime,1
+Wilder Mind,reminds,1
+Wilder Mind,past,1
+Wilder Mind,life,5
+Wilder Mind,lived,1
+Wilder Mind,much,3
+Wilder Mind,fast,2
+Wilder Mind,onto,1
+Wilder Mind,losing,4
+Wilder Mind,house,1
+Wilder Mind,another,4
+Wilder Mind,dry,1
+Wilder Mind,month,1
+Wilder Mind,rain,2
+Wilder Mind,resisting,1
+Wilder Mind,decay,1
+Wilder Mind,came,3
+Wilder Mind,across,3
+Wilder Mind,years,3
+Wilder Mind,ago,3
+Wilder Mind,far,3
+Wilder Mind,changed,3
+Wilder Mind,fragile,3
+Wilder Mind,outside,1
+Wilder Mind,watches,1
+Wilder Mind,crawl,2
+Wilder Mind,towards,1
+Wilder Mind,lines,1
+Wilder Mind,wasted,1
+Wilder Mind,hard,1
+Wilder Mind,give,1
+Wilder Mind,end,5
+Wilder Mind,careful,1
+Wilder Mind,wandering,1
+Wilder Mind,bed,1
+Wilder Mind,losingloneliness,1
+Wilder Mind,stuck,1
+Wilder Mind,spot,1
+Wilder Mind,friend,1
+Wilder Mind,hunger,1
+Wilder Mind,thirst,1
+Wilder Mind,shiver,1
+Wilder Mind,promise,2
+Wilder Mind,low,3
+Wilder Mind,win,5
+Wilder Mind,fool,2
+Wilder Mind,failed,1
+Wilder Mind,short,1
+Wilder Mind,younger,1
+Wilder Mind,rage,2
+Wilder Mind,perhaps,1
+Wilder Mind,age,1
+Wilder Mind,endgreat,1
+Wilder Mind,stop,1
+Wilder Mind,sing,1
+Wilder Mind,perfect,1
+Wilder Mind,pill,1
+Wilder Mind,help,1
+Wilder Mind,note,1
+Wilder Mind,coldest,1
+Wilder Mind,speak,1
+Wilder Mind,grace,1
+Wilder Mind,hot,2
+Wilder Mind,gates,2
+Wilder Mind,spent,2
+Wilder Mind,victory,2
+Wilder Mind,though,4
+Wilder Mind,swore,2
+Wilder Mind,anymore,2
+Wilder Mind,constantly,2
+Wilder Mind,must,2
+Wilder Mind,stay,2
+Wilder Mind,tender,1
+Wilder Mind,went,1
+Wilder Mind,aground,1
+Wilder Mind,near,1
+Wilder Mind,duller,1
+Wilder Mind,blade,1
+Wilder Mind,sight,1
+Wilder Mind,run,3
+Wilder Mind,decides,1
+Wilder Mind,on,1
+Wilder Mind,on!,1
+Sigh No More (Japanese Deluxe Version),serve,1
+Sigh No More (Japanese Deluxe Version),god,4
+Sigh No More (Japanese Deluxe Version),love,23
+Sigh No More (Japanese Deluxe Version),mend,1
+Sigh No More (Japanese Deluxe Version),end,1
+Sigh No More (Japanese Deluxe Version),live,4
+Sigh No More (Japanese Deluxe Version),unbruised,1
+Sigh No More (Japanese Deluxe Version),friends,1
+Sigh No More (Japanese Deluxe Version),sorry,2
+Sigh No More (Japanese Deluxe Version),sigh,1
+Sigh No More (Japanese Deluxe Version),more,1
+Sigh No More (Japanese Deluxe Version),one,9
+Sigh No More (Japanese Deluxe Version),foot,2
+Sigh No More (Japanese Deluxe Version),sea,1
+Sigh No More (Japanese Deluxe Version),shore,1
+Sigh No More (Japanese Deluxe Version),heart,60
+Sigh No More (Japanese Deluxe Version),never,6
+Sigh No More (Japanese Deluxe Version),pure,1
+Sigh No More (Japanese Deluxe Version),know,20
+Sigh No More (Japanese Deluxe Version),man,16
+Sigh No More (Japanese Deluxe Version),giddy,4
+Sigh No More (Japanese Deluxe Version),thing,5
+Sigh No More (Japanese Deluxe Version),oh,16
+Sigh No More (Japanese Deluxe Version),betray,3
+Sigh No More (Japanese Deluxe Version),you,4
+Sigh No More (Japanese Deluxe Version),dismay,3
+Sigh No More (Japanese Deluxe Version),enslave,3
+Sigh No More (Japanese Deluxe Version),set,3
+Sigh No More (Japanese Deluxe Version),free,5
+Sigh No More (Japanese Deluxe Version),like,4
+Sigh No More (Japanese Deluxe Version),made,10
+Sigh No More (Japanese Deluxe Version),design,3
+Sigh No More (Japanese Deluxe Version),alignment,3
+Sigh No More (Japanese Deluxe Version),cry,3
+Sigh No More (Japanese Deluxe Version),see,19
+Sigh No More (Japanese Deluxe Version),beauty,4
+Sigh No More (Japanese Deluxe Version),madeempty,1
+Sigh No More (Japanese Deluxe Version),valley,1
+Sigh No More (Japanese Deluxe Version),sun,3
+Sigh No More (Japanese Deluxe Version),rises,1
+Sigh No More (Japanese Deluxe Version),slowly,1
+Sigh No More (Japanese Deluxe Version),walk,2
+Sigh No More (Japanese Deluxe Version),away,6
+Sigh No More (Japanese Deluxe Version),fears,5
+Sigh No More (Japanese Deluxe Version),faults,2
+Sigh No More (Japanese Deluxe Version),left,6
+Sigh No More (Japanese Deluxe Version),behind,2
+Sigh No More (Japanese Deluxe Version),harvest,1
+Sigh No More (Japanese Deluxe Version),food,1
+Sigh No More (Japanese Deluxe Version),eat,1
+Sigh No More (Japanese Deluxe Version),cannibal,1
+Sigh No More (Japanese Deluxe Version),meat-eater,1
+Sigh No More (Japanese Deluxe Version),seen,4
+Sigh No More (Japanese Deluxe Version),shame,2
+Sigh No More (Japanese Deluxe Version),defeat,1
+Sigh No More (Japanese Deluxe Version),hold,27
+Sigh No More (Japanese Deluxe Version),hope,12
+Sigh No More (Japanese Deluxe Version),let,12
+Sigh No More (Japanese Deluxe Version),choke,3
+Sigh No More (Japanese Deluxe Version),noose,3
+Sigh No More (Japanese Deluxe Version),around,6
+Sigh No More (Japanese Deluxe Version),neck,4
+Sigh No More (Japanese Deluxe Version),find,10
+Sigh No More (Japanese Deluxe Version),strength,3
+Sigh No More (Japanese Deluxe Version),pain,3
+Sigh No More (Japanese Deluxe Version),change,5
+Sigh No More (Japanese Deluxe Version),ways,3
+Sigh No More (Japanese Deluxe Version),name,3
+Sigh No More (Japanese Deluxe Version),called,3
+Sigh No More (Japanese Deluxe Version),things,8
+Sigh No More (Japanese Deluxe Version),fill,2
+Sigh No More (Japanese Deluxe Version),time,25
+Sigh No More (Japanese Deluxe Version),take,7
+Sigh No More (Japanese Deluxe Version),mine,8
+Sigh No More (Japanese Deluxe Version),truth,6
+Sigh No More (Japanese Deluxe Version),refresh,1
+Sigh No More (Japanese Deluxe Version),broken,1
+Sigh No More (Japanese Deluxe Version),mind,10
+Sigh No More (Japanese Deluxe Version),tie,1
+Sigh No More (Japanese Deluxe Version),post,1
+Sigh No More (Japanese Deluxe Version),block,1
+Sigh No More (Japanese Deluxe Version),ears,1
+Sigh No More (Japanese Deluxe Version),widows,1
+Sigh No More (Japanese Deluxe Version),orphans,1
+Sigh No More (Japanese Deluxe Version),tears,5
+Sigh No More (Japanese Deluxe Version),call,2
+Sigh No More (Japanese Deluxe Version),despite,2
+Sigh No More (Japanese Deluxe Version),growing,1
+Sigh No More (Japanese Deluxe Version),come,7
+Sigh No More (Japanese Deluxe Version),cave,1
+Sigh No More (Japanese Deluxe Version),walking,1
+Sigh No More (Japanese Deluxe Version),hands,7
+Sigh No More (Japanese Deluxe Version),world,5
+Sigh No More (Japanese Deluxe Version),hanging,1
+Sigh No More (Japanese Deluxe Version),upside,1
+Sigh No More (Japanese Deluxe Version),understand,1
+Sigh No More (Japanese Deluxe Version),dependence,1
+Sigh No More (Japanese Deluxe Version),land,5
+Sigh No More (Japanese Deluxe Version),make,3
+Sigh No More (Japanese Deluxe Version),sing,1
+Sigh No More (Japanese Deluxe Version),want,1
+Sigh No More (Japanese Deluxe Version),hear,2
+Sigh No More (Japanese Deluxe Version),say,7
+Sigh No More (Japanese Deluxe Version),need,2
+Sigh No More (Japanese Deluxe Version),freedom,1
+Sigh No More (Japanese Deluxe Version),life,7
+Sigh No More (Japanese Deluxe Version),meant,2
+Sigh No More (Japanese Deluxe Version),calledwinter,1
+Sigh No More (Japanese Deluxe Version),winds,1
+Sigh No More (Japanese Deluxe Version),litter,1
+Sigh No More (Japanese Deluxe Version),london,1
+Sigh No More (Japanese Deluxe Version),lonely,1
+Sigh No More (Japanese Deluxe Version),hearts,1
+Sigh No More (Japanese Deluxe Version),warmth,1
+Sigh No More (Japanese Deluxe Version),eyes,7
+Sigh No More (Japanese Deluxe Version),swept,1
+Sigh No More (Japanese Deluxe Version),arms,4
+Sigh No More (Japanese Deluxe Version),fear,1
+Sigh No More (Japanese Deluxe Version),cold,4
+Sigh No More (Japanese Deluxe Version),led,1
+Sigh No More (Japanese Deluxe Version),us,2
+Sigh No More (Japanese Deluxe Version),every,2
+Sigh No More (Japanese Deluxe Version),kiss,1
+Sigh No More (Japanese Deluxe Version),trumped,1
+Sigh No More (Japanese Deluxe Version),doubt,1
+Sigh No More (Japanese Deluxe Version),head,12
+Sigh No More (Japanese Deluxe Version),told,9
+Sigh No More (Japanese Deluxe Version),grow,4
+Sigh No More (Japanese Deluxe Version),no.,6
+Sigh No More (Japanese Deluxe Version),washed,1
+Sigh No More (Japanese Deluxe Version),buried,1
+Sigh No More (Japanese Deluxe Version),day,2
+Sigh No More (Japanese Deluxe Version),girl,1
+Sigh No More (Japanese Deluxe Version),given,2
+Sigh No More (Japanese Deluxe Version),flesh,3
+Sigh No More (Japanese Deluxe Version),lived,2
+Sigh No More (Japanese Deluxe Version),loved,2
+Sigh No More (Japanese Deluxe Version),eaten,1
+Sigh No More (Japanese Deluxe Version),plague,2
+Sigh No More (Japanese Deluxe Version),memories,1
+Sigh No More (Japanese Deluxe Version),good,3
+Sigh No More (Japanese Deluxe Version),stay,1
+Sigh No More (Japanese Deluxe Version),sent,3
+Sigh No More (Japanese Deluxe Version),pestilence,1
+Sigh No More (Japanese Deluxe Version),lost,1
+Sigh No More (Japanese Deluxe Version),gone,5
+Sigh No More (Japanese Deluxe Version),overcome,1
+Sigh No More (Japanese Deluxe Version),strife,1
+Sigh No More (Japanese Deluxe Version),strikes,1
+Sigh No More (Japanese Deluxe Version),sleep,1
+Sigh No More (Japanese Deluxe Version),remember,1
+Sigh No More (Japanese Deluxe Version),spring,1
+Sigh No More (Japanese Deluxe Version),swaps,1
+Sigh No More (Japanese Deluxe Version),snow,1
+Sigh No More (Japanese Deluxe Version),leaves,1
+Sigh No More (Japanese Deluxe Version),happy,1
+Sigh No More (Japanese Deluxe Version),wholesome,1
+Sigh No More (Japanese Deluxe Version),city,2
+Sigh No More (Japanese Deluxe Version),clears,1
+Sigh No More (Japanese Deluxe Version),ascends,1
+Sigh No More (Japanese Deluxe Version),hey,1
+Sigh No More (Japanese Deluxe Version),no.roll,1
+Sigh No More (Japanese Deluxe Version),stone,2
+Sigh No More (Japanese Deluxe Version),roll,1
+Sigh No More (Japanese Deluxe Version),together,1
+Sigh No More (Japanese Deluxe Version),leave,1
+Sigh No More (Japanese Deluxe Version),alone,9
+Sigh No More (Japanese Deluxe Version),afraid,1
+Sigh No More (Japanese Deluxe Version),discover,1
+Sigh No More (Japanese Deluxe Version),inside,1
+Sigh No More (Japanese Deluxe Version),would,1
+Sigh No More (Japanese Deluxe Version),hole,2
+Sigh No More (Japanese Deluxe Version),within,1
+Sigh No More (Japanese Deluxe Version),fragile,1
+Sigh No More (Japanese Deluxe Version),substance,2
+Sigh No More (Japanese Deluxe Version),soul,13
+Sigh No More (Japanese Deluxe Version),filled,1
+Sigh No More (Japanese Deluxe Version),void,1
+Sigh No More (Japanese Deluxe Version),unreal,1
+Sigh No More (Japanese Deluxe Version),character,1
+Sigh No More (Japanese Deluxe Version),steals,1
+Sigh No More (Japanese Deluxe Version),darkness,9
+Sigh No More (Japanese Deluxe Version),harsh,3
+Sigh No More (Japanese Deluxe Version),term,3
+Sigh No More (Japanese Deluxe Version),yet,3
+Sigh No More (Japanese Deluxe Version),dominates,3
+Sigh No More (Japanese Deluxe Version),seems,2
+Sigh No More (Japanese Deluxe Version),bridges,1
+Sigh No More (Japanese Deluxe Version),burned,1
+Sigh No More (Japanese Deluxe Version),exactly,2
+Sigh No More (Japanese Deluxe Version),grace,5
+Sigh No More (Japanese Deluxe Version),works,1
+Sigh No More (Japanese Deluxe Version),long,1
+Sigh No More (Japanese Deluxe Version),home,4
+Sigh No More (Japanese Deluxe Version),welcome,1
+Sigh No More (Japanese Deluxe Version),receive,1
+Sigh No More (Japanese Deluxe Version),restart,1
+Sigh No More (Japanese Deluxe Version),stars,2
+Sigh No More (Japanese Deluxe Version),hide,5
+Sigh No More (Japanese Deluxe Version),fires,2
+Sigh No More (Japanese Deluxe Version),desires,2
+Sigh No More (Japanese Deluxe Version),give,3
+Sigh No More (Japanese Deluxe Version),so,2
+Sigh No More (Japanese Deluxe Version),found,2
+Sigh No More (Japanese Deluxe Version),stake,2
+Sigh No More (Japanese Deluxe Version),stuck,2
+Sigh No More (Japanese Deluxe Version),ground,4
+Sigh No More (Japanese Deluxe Version),marking,2
+Sigh No More (Japanese Deluxe Version),territory,2
+Sigh No More (Japanese Deluxe Version),newly,2
+Sigh No More (Japanese Deluxe Version),impassioned,2
+Sigh No More (Japanese Deluxe Version),far,1
+Sigh No More (Japanese Deluxe Version),neither,1
+Sigh No More (Japanese Deluxe Version),reason,1
+Sigh No More (Japanese Deluxe Version),rhyme,1
+Sigh No More (Japanese Deluxe Version),rightfully,1
+Sigh No More (Japanese Deluxe Version),minelie,1
+Sigh No More (Japanese Deluxe Version),next,2
+Sigh No More (Japanese Deluxe Version),well,8
+Sigh No More (Japanese Deluxe Version),body,4
+Sigh No More (Japanese Deluxe Version),lie,1
+Sigh No More (Japanese Deluxe Version),confess,1
+Sigh No More (Japanese Deluxe Version),folly,1
+Sigh No More (Japanese Deluxe Version),kneel,8
+Sigh No More (Japanese Deluxe Version),king,1
+Sigh No More (Japanese Deluxe Version),clean,2
+Sigh No More (Japanese Deluxe Version),tell,5
+Sigh No More (Japanese Deluxe Version),now,4
+Sigh No More (Japanese Deluxe Version),fault,9
+Sigh No More (Japanese Deluxe Version),loving,5
+Sigh No More (Japanese Deluxe Version),whole,7
+Sigh No More (Japanese Deluxe Version),white,1
+Sigh No More (Japanese Deluxe Version),blank,1
+Sigh No More (Japanese Deluxe Version),page,1
+Sigh No More (Japanese Deluxe Version),swelling,1
+Sigh No More (Japanese Deluxe Version),rage,2
+Sigh No More (Japanese Deluxe Version),think,1
+Sigh No More (Japanese Deluxe Version),brink,2
+Sigh No More (Japanese Deluxe Version),desired,1
+Sigh No More (Japanese Deluxe Version),attention,1
+Sigh No More (Japanese Deluxe Version),denied,2
+Sigh No More (Japanese Deluxe Version),affections,2
+Sigh No More (Japanese Deluxe Version),lead,2
+Sigh No More (Japanese Deluxe Version),follow,2
+Sigh No More (Japanese Deluxe Version),heartrip,1
+Sigh No More (Japanese Deluxe Version),earth,1
+Sigh No More (Japanese Deluxe Version),two,1
+Sigh No More (Japanese Deluxe Version),seal,4
+Sigh No More (Japanese Deluxe Version),urge,1
+Sigh No More (Japanese Deluxe Version),ensues,1
+Sigh No More (Japanese Deluxe Version),brass,1
+Sigh No More (Japanese Deluxe Version),wires,1
+Sigh No More (Japanese Deluxe Version),harm,1
+Sigh No More (Japanese Deluxe Version),feel,4
+Sigh No More (Japanese Deluxe Version),warm,1
+Sigh No More (Japanese Deluxe Version),fall,6
+Sigh No More (Japanese Deluxe Version),forearm,1
+Sigh No More (Japanese Deluxe Version),close,2
+Sigh No More (Japanese Deluxe Version),force,2
+Sigh No More (Japanese Deluxe Version),patient,2
+Sigh No More (Japanese Deluxe Version),smile,2
+Sigh No More (Japanese Deluxe Version),better,1
+Sigh No More (Japanese Deluxe Version),shoulder,2
+Sigh No More (Japanese Deluxe Version),brother,1
+Sigh No More (Japanese Deluxe Version),carry,1
+Sigh No More (Japanese Deluxe Version),blind,1
+Sigh No More (Japanese Deluxe Version),sleeps,1
+Sigh No More (Japanese Deluxe Version),doorway,1
+Sigh No More (Japanese Deluxe Version),enemy,1
+Sigh No More (Japanese Deluxe Version),bigger,1
+Sigh No More (Japanese Deluxe Version),apathy,1
+Sigh No More (Japanese Deluxe Version),could,6
+Sigh No More (Japanese Deluxe Version),gave,9
+Sigh No More (Japanese Deluxe Version),rip,4
+Sigh No More (Japanese Deluxe Version),swear,2
+Sigh No More (Japanese Deluxe Version),gaveweep,1
+Sigh No More (Japanese Deluxe Version),yourself,2
+Sigh No More (Japanese Deluxe Version),weep,1
+Sigh No More (Japanese Deluxe Version),little,2
+Sigh No More (Japanese Deluxe Version),lion,2
+Sigh No More (Japanese Deluxe Version),brave,1
+Sigh No More (Japanese Deluxe Version),start,1
+Sigh No More (Japanese Deluxe Version),rate,1
+Sigh No More (Japanese Deluxe Version),rake,1
+Sigh No More (Japanese Deluxe Version),courage,2
+Sigh No More (Japanese Deluxe Version),waste,1
+Sigh No More (Japanese Deluxe Version),fixing,1
+Sigh No More (Japanese Deluxe Version),problems,1
+Sigh No More (Japanese Deluxe Version),line,5
+Sigh No More (Japanese Deluxe Version),really,5
+Sigh No More (Japanese Deluxe Version),fucked,5
+Sigh No More (Japanese Deluxe Version),my...,1
+Sigh No More (Japanese Deluxe Version),tremble,2
+Sigh No More (Japanese Deluxe Version),settle,1
+Sigh No More (Japanese Deluxe Version),scores,1
+Sigh No More (Japanese Deluxe Version),wasted,1
+Sigh No More (Japanese Deluxe Version),face,5
+Sigh No More (Japanese Deluxe Version),boldness,1
+Sigh No More (Japanese Deluxe Version),stands,2
+Sigh No More (Japanese Deluxe Version),among,1
+Sigh No More (Japanese Deluxe Version),wreck,1
+Sigh No More (Japanese Deluxe Version),learn,1
+Sigh No More (Japanese Deluxe Version),mother,3
+Sigh No More (Japanese Deluxe Version),else,2
+Sigh No More (Japanese Deluxe Version),spend,1
+Sigh No More (Japanese Deluxe Version),days,3
+Sigh No More (Japanese Deluxe Version),biting,1
+Sigh No More (Japanese Deluxe Version),ahh,2
+Sigh No More (Japanese Deluxe Version),ha,4
+Sigh No More (Japanese Deluxe Version),timecold,1
+Sigh No More (Japanese Deluxe Version),water,3
+Sigh No More (Japanese Deluxe Version),freezes,1
+Sigh No More (Japanese Deluxe Version),already,2
+Sigh No More (Japanese Deluxe Version),death,2
+Sigh No More (Japanese Deluxe Version),doorstep,1
+Sigh No More (Japanese Deluxe Version),steal,2
+Sigh No More (Japanese Deluxe Version),innocence,1
+Sigh No More (Japanese Deluxe Version),brothers,2
+Sigh No More (Japanese Deluxe Version),stand,5
+Sigh No More (Japanese Deluxe Version),hand,10
+Sigh No More (Japanese Deluxe Version),baby,1
+Sigh No More (Japanese Deluxe Version),child,1
+Sigh No More (Japanese Deluxe Version),choices,1
+Sigh No More (Japanese Deluxe Version),great,1
+Sigh No More (Japanese Deluxe Version),ladder,1
+Sigh No More (Japanese Deluxe Version),night,2
+Sigh No More (Japanese Deluxe Version),whisper,1
+Sigh No More (Japanese Deluxe Version),"lose,1
+Sigh No More (Japanese Deluxe Version),sight.",1
+Sigh No More (Japanese Deluxe Version),move,1
+Sigh No More (Japanese Deluxe Version),mountainsspare,1
+Sigh No More (Japanese Deluxe Version),judgements,1
+Sigh No More (Japanese Deluxe Version),spare,1
+Sigh No More (Japanese Deluxe Version),dreams,1
+Sigh No More (Japanese Deluxe Version),recently,1
+Sigh No More (Japanese Deluxe Version),tearing,1
+Sigh No More (Japanese Deluxe Version),seams,1
+Sigh No More (Japanese Deluxe Version),sit,1
+Sigh No More (Japanese Deluxe Version),winter,1
+Sigh No More (Japanese Deluxe Version),clarity,1
+Sigh No More (Japanese Deluxe Version),clouds,1
+Sigh No More (Japanese Deluxe Version),wind,1
+Sigh No More (Japanese Deluxe Version),rain,6
+Sigh No More (Japanese Deluxe Version),getting,1
+Sigh No More (Japanese Deluxe Version),dark,3
+Sigh No More (Japanese Deluxe Version),darling,1
+Sigh No More (Japanese Deluxe Version),knees,3
+Sigh No More (Japanese Deluxe Version),faith,1
+Sigh No More (Japanese Deluxe Version),shreds,1
+Sigh No More (Japanese Deluxe Version),corrupted,1
+Sigh No More (Japanese Deluxe Version),simple,1
+Sigh No More (Japanese Deluxe Version),sniff,1
+Sigh No More (Japanese Deluxe Version),riches,1
+Sigh No More (Japanese Deluxe Version),blown,1
+Sigh No More (Japanese Deluxe Version),felt,1
+Sigh No More (Japanese Deluxe Version),much,1
+Sigh No More (Japanese Deluxe Version),shown,1
+Sigh No More (Japanese Deluxe Version),creeps,1
+Sigh No More (Japanese Deluxe Version),chest,1
+Sigh No More (Japanese Deluxe Version),plant,2
+Sigh No More (Japanese Deluxe Version),seeds,2
+Sigh No More (Japanese Deluxe Version),cover,2
+Sigh No More (Japanese Deluxe Version),thistle,2
+Sigh No More (Japanese Deluxe Version),weeds,2
+Sigh No More (Japanese Deluxe Version),down,10
+Sigh No More (Japanese Deluxe Version),look,6
+Sigh No More (Japanese Deluxe Version),hills,1
+Sigh No More (Japanese Deluxe Version),still,2
+Sigh No More (Japanese Deluxe Version),sky,1
+Sigh No More (Japanese Deluxe Version),shoots,1
+Sigh No More (Japanese Deluxe Version),kill,1
+Sigh No More (Japanese Deluxe Version),on,5
+Sigh No More (Japanese Deluxe Version),begged,1
+Sigh No More (Japanese Deluxe Version),me,3
+Sigh No More (Japanese Deluxe Version),bones,1
+Sigh No More (Japanese Deluxe Version),dead,2
+Sigh No More (Japanese Deluxe Version),bury,1
+Sigh No More (Japanese Deluxe Version),droves,1
+Sigh No More (Japanese Deluxe Version),spade,1
+Sigh No More (Japanese Deluxe Version),holes,1
+Sigh No More (Japanese Deluxe Version),rainfickle,1
+Sigh No More (Japanese Deluxe Version),woozy,2
+Sigh No More (Japanese Deluxe Version),struggle,2
+Sigh No More (Japanese Deluxe Version),lies,2
+Sigh No More (Japanese Deluxe Version),stumbles,2
+Sigh No More (Japanese Deluxe Version),weakness,6
+Sigh No More (Japanese Deluxe Version),must,4
+Sigh No More (Japanese Deluxe Version),finally,2
+Sigh No More (Japanese Deluxe Version),show,2
+Sigh No More (Japanese Deluxe Version),lend,3
+Sigh No More (Japanese Deluxe Version),conquer,1
+Sigh No More (Japanese Deluxe Version),keep,3
+Sigh No More (Japanese Deluxe Version),totally,1
+Sigh No More (Japanese Deluxe Version),har,16
+Sigh No More (Japanese Deluxe Version),awake,8
+Sigh No More (Japanese Deluxe Version),fickle,1
+Sigh No More (Japanese Deluxe Version),bodies,4
+Sigh No More (Japanese Deluxe Version),die,3
+Sigh No More (Japanese Deluxe Version),invest,4
+Sigh No More (Japanese Deluxe Version),meet,3
+Sigh No More (Japanese Deluxe Version),maker,2
+Sigh No More (Japanese Deluxe Version),makeryoung,1
+Sigh No More (Japanese Deluxe Version),edge,1
+Sigh No More (Japanese Deluxe Version),porch,1
+Sigh No More (Japanese Deluxe Version),short,5
+Sigh No More (Japanese Deluxe Version),father,1
+Sigh No More (Japanese Deluxe Version),town,1
+Sigh No More (Japanese Deluxe Version),field,1
+Sigh No More (Japanese Deluxe Version),dusty,1
+Sigh No More (Japanese Deluxe Version),barren,1
+Sigh No More (Japanese Deluxe Version),yield,1
+Sigh No More (Japanese Deluxe Version),kicked,1
+Sigh No More (Japanese Deluxe Version),age,1
+Sigh No More (Japanese Deluxe Version),sixteen,1
+Sigh No More (Japanese Deluxe Version),idea,1
+Sigh No More (Japanese Deluxe Version),placed,1
+Sigh No More (Japanese Deluxe Version),trust,1
+Sigh No More (Japanese Deluxe Version),hill,4
+Sigh No More (Japanese Deluxe Version),sure,1
+Sigh No More (Japanese Deluxe Version),collect,2
+Sigh No More (Japanese Deluxe Version),horse,1
+Sigh No More (Japanese Deluxe Version),pray,2
+Sigh No More (Japanese Deluxe Version),kind,1
+Sigh No More (Japanese Deluxe Version),remorse,1
+Sigh No More (Japanese Deluxe Version),break,8
+Sigh No More (Japanese Deluxe Version),pride,3
+Sigh No More (Japanese Deluxe Version),nowhere,6
+Sigh No More (Japanese Deluxe Version),align,3
+Sigh No More (Japanese Deluxe Version),done,4
+Sigh No More (Japanese Deluxe Version),accuser,1
+Sigh No More (Japanese Deluxe Version),oppression,1
+Sigh No More (Japanese Deluxe Version),reeks,1
+Sigh No More (Japanese Deluxe Version),greed,1
+Sigh No More (Japanese Deluxe Version),disgrace,1
+Sigh No More (Japanese Deluxe Version),another,1
+Sigh No More (Japanese Deluxe Version),got,2
+Sigh No More (Japanese Deluxe Version),took,2
+Sigh No More (Japanese Deluxe Version),weak,1
+Sigh No More (Japanese Deluxe Version),liars,1
+Sigh No More (Japanese Deluxe Version),thieves,1
+Sigh No More (Japanese Deluxe Version),store,1
+Sigh No More (Japanese Deluxe Version),eye,1
+Sigh No More (Japanese Deluxe Version),always,2
+Sigh No More (Japanese Deluxe Version),go,2
+Sigh No More (Japanese Deluxe Version),back,2
+Sigh No More (Japanese Deluxe Version),get,4
+Sigh No More (Japanese Deluxe Version),gun,2
+Sigh No More (Japanese Deluxe Version),"you,2
+Sigh No More (Japanese Deluxe Version),met,2
+Sigh No More (Japanese Deluxe Version),son.",1
+Sigh No More (Japanese Deluxe Version),yes,3
+Sigh No More (Japanese Deluxe Version),sir,2
+Sigh No More (Japanese Deluxe Version),went,1
+Sigh No More (Japanese Deluxe Version),said,1
+Sigh No More (Japanese Deluxe Version),son."storm,1
+Sigh No More (Japanese Deluxe Version),run,2
+Sigh No More (Japanese Deluxe Version),rains,1
+Sigh No More (Japanese Deluxe Version),up,1
+Sigh No More (Japanese Deluxe Version),luck,1
+Sigh No More (Japanese Deluxe Version),pushed,1
+Sigh No More (Japanese Deluxe Version),decay,1
+Sigh No More (Japanese Deluxe Version),rot,3
+Sigh No More (Japanese Deluxe Version),stood,1
+Sigh No More (Japanese Deluxe Version),tall,1
+Sigh No More (Japanese Deluxe Version),remembered,1
+Sigh No More (Japanese Deluxe Version),dismiss,3
+Sigh No More (Japanese Deluxe Version),flowers,4
+Sigh No More (Japanese Deluxe Version),hair,2
+Sigh No More (Japanese Deluxe Version),cling,1
+Sigh No More (Japanese Deluxe Version),knew,5
+Sigh No More (Japanese Deluxe Version),saw,1
+Sigh No More (Japanese Deluxe Version),true,1
+Sigh No More (Japanese Deluxe Version),guess,1
+Sigh No More (Japanese Deluxe Version),knows,1
+Sigh No More (Japanese Deluxe Version),full,1
+Sigh No More (Japanese Deluxe Version),small,1
+Sigh No More (Japanese Deluxe Version),scared,1
+Sigh No More (Japanese Deluxe Version),hairpromise,1
+Sigh No More (Japanese Deluxe Version),promise,2
+Sigh No More (Japanese Deluxe Version),falls,1
+Sigh No More (Japanese Deluxe Version),young,1
+Sigh No More (Japanese Deluxe Version),open,1
+Sigh No More (Japanese Deluxe Version),windy,1
+Sigh No More (Japanese Deluxe Version),fields,1
+Sigh No More (Japanese Deluxe Version),war-torn,1
+Sigh No More (Japanese Deluxe Version),breathes,1
+Sigh No More (Japanese Deluxe Version),creators,1
+Sigh No More (Japanese Deluxe Version),ran,1
+Sigh No More (Japanese Deluxe Version),burden,1
+Sigh No More (Japanese Deluxe Version),fast,1
+Sigh No More (Japanese Deluxe Version),casting,1
+Sigh No More (Japanese Deluxe Version),spell,1
+Sigh No More (Japanese Deluxe Version),believe,2
+Sigh No More (Japanese Deluxe Version),light,3
+Sigh No More (Japanese Deluxe Version),robbed,2
+Sigh No More (Japanese Deluxe Version),sight,2
+Sigh No More (Japanese Deluxe Version),means,1
+Sigh No More (Japanese Deluxe Version),less,3
+Sigh No More (Japanese Deluxe Version),without,1
+Sigh No More (Japanese Deluxe Version),breathing,1
+Sigh No More (Japanese Deluxe Version),trees,1
+Sigh No More (Japanese Deluxe Version),turn,1
+Sigh No More (Japanese Deluxe Version),runs,1
+Sigh No More (Japanese Deluxe Version),halo,1
+Sigh No More (Japanese Deluxe Version),disappears,1
+Sigh No More (Japanese Deluxe Version),near,1
+Sigh No More (Japanese Deluxe Version),believed,1
+Sigh No More (Japanese Deluxe Version),lightwell,1
+Sigh No More (Japanese Deluxe Version),came,1
+Sigh No More (Japanese Deluxe Version),fell,1
+Sigh No More (Japanese Deluxe Version),heavy,1
+Sigh No More (Japanese Deluxe Version),dust,1
+Sigh No More (Japanese Deluxe Version),known,1
+Sigh No More (Japanese Deluxe Version),blow,1
+Sigh No More (Japanese Deluxe Version),new,1
+Sigh No More (Japanese Deluxe Version),wait,5
+Sigh No More (Japanese Deluxe Version),step,1
+Sigh No More (Japanese Deluxe Version),relent,1
+Sigh No More (Japanese Deluxe Version),forgave,1
+Sigh No More (Japanese Deluxe Version),forget,1
+Sigh No More (Japanese Deluxe Version),way,2
+Sigh No More (Japanese Deluxe Version),shake,1
+Sigh No More (Japanese Deluxe Version),excess,1
+Sigh No More (Japanese Deluxe Version),remold,1
+Sigh No More (Japanese Deluxe Version),strong,1
+Sigh No More (Japanese Deluxe Version),use,1
+Sigh No More (Japanese Deluxe Version),alongside,1
+Sigh No More (Japanese Deluxe Version),fix,1
+Sigh No More (Japanese Deluxe Version),tethered,1
+Sigh No More (Japanese Deluxe Version),raise,2
+Sigh No More (Japanese Deluxe Version),paint,2
+Sigh No More (Japanese Deluxe Version),spirit,2
+Sigh No More (Japanese Deluxe Version),gold,2
+Sigh No More (Japanese Deluxe Version),bow,2
+Sigh No More (Japanese Deluxe Version),slow,1
+Sigh No More (Japanese Deluxe Version),slowfall,1
+Sigh No More (Japanese Deluxe Version),comes,1
+Sigh No More (Japanese Deluxe Version),flawed,4
+Sigh No More (Japanese Deluxe Version),subscribe,4
+Sigh No More (Japanese Deluxe Version),speak,1
+Sigh No More (Japanese Deluxe Version),sin,1
+Sigh No More (Japanese Deluxe Version),mirror,1
+Sigh No More (Japanese Deluxe Version),shows,1
+Sigh No More (Japanese Deluxe Version),values,1
+Sigh No More (Japanese Deluxe Version),shot,1
+Babel (Deluxe),know,20
+Babel (Deluxe),time,6
+Babel (Deluxe),numbered,1
+Babel (Deluxe),days,2
+Babel (Deluxe),go,6
+Babel (Deluxe),along,1
+Babel (Deluxe),everything,1
+Babel (Deluxe),say,1
+Babel (Deluxe),ride,1
+Babel (Deluxe),home,6
+Babel (Deluxe),laughing,1
+Babel (Deluxe),look,2
+Babel (Deluxe),walls,5
+Babel (Deluxe),town,2
+Babel (Deluxe),come,4
+Babel (Deluxe),crumbling,2
+Babel (Deluxe),ears,2
+Babel (Deluxe),hear,3
+Babel (Deluxe),call,5
+Babel (Deluxe),unborn,1
+Babel (Deluxe),sons,1
+Babel (Deluxe),choices,2
+Babel (Deluxe),color,1
+Babel (Deluxe),done,2
+Babel (Deluxe),explain,1
+Babel (Deluxe),son,1
+Babel (Deluxe),ever,2
+Babel (Deluxe),lived,1
+Babel (Deluxe),year,1
+Babel (Deluxe),better,2
+Babel (Deluxe),spent,1
+Babel (Deluxe),love,13
+Babel (Deluxe),weakness,3
+Babel (Deluxe),voice,3
+Babel (Deluxe),believe,9
+Babel (Deluxe),grace,4
+Babel (Deluxe),choice,4
+Babel (Deluxe),perhaps,2
+Babel (Deluxe),heart,20
+Babel (Deluxe),fast,10
+Babel (Deluxe),born,2
+Babel (Deluxe),without,4
+Babel (Deluxe),mask,1
+Babel (Deluxe),like,8
+Babel (Deluxe),city,1
+Babel (Deluxe),nurtured,1
+Babel (Deluxe),greed,1
+Babel (Deluxe),pride,2
+Babel (Deluxe),stretch,2
+Babel (Deluxe),arms,2
+Babel (Deluxe),sky,1
+Babel (Deluxe),cry,2
+Babel (Deluxe),babel!,2
+Babel (Deluxe),ask,3
+Babel (Deluxe),stand,2
+Babel (Deluxe),winds,1
+Babel (Deluxe),howl,1
+Babel (Deluxe),see,11
+Babel (Deluxe),slip,1
+Babel (Deluxe),cloud,1
+Babel (Deluxe),mountain,1
+Babel (Deluxe),been,1
+Babel (Deluxe),breath,1
+Babel (Deluxe),weak,5
+Babel (Deluxe),bodies,1
+Babel (Deluxe),thin,1
+Babel (Deluxe),press,1
+Babel (Deluxe),nose,1
+Babel (Deluxe),glass,4
+Babel (Deluxe),around,1
+Babel (Deluxe),known,2
+Babel (Deluxe),weaker,1
+Babel (Deluxe),start,2
+Babel (Deluxe),build,3
+Babel (Deluxe),play,1
+Babel (Deluxe),bloody,1
+Babel (Deluxe),part,1
+Babel (Deluxe),tear,5
+Babel (Deluxe),down.,1
+Babel (Deluxe),well,12
+Babel (Deluxe),gonna,1
+Babel (Deluxe),down!,1
+Babel (Deluxe),maskhold,1
+Babel (Deluxe),truth,2
+Babel (Deluxe),purely,1
+Babel (Deluxe),swerve,1
+Babel (Deluxe),minds,1
+Babel (Deluxe),men,1
+Babel (Deluxe),lie,4
+Babel (Deluxe),dead,1
+Babel (Deluxe),cup,1
+Babel (Deluxe),tastes,1
+Babel (Deluxe),holy,2
+Babel (Deluxe),brush,1
+Babel (Deluxe),devil,1
+Babel (Deluxe),clear,1
+Babel (Deluxe),mind,7
+Babel (Deluxe),strengthen,1
+Babel (Deluxe),spine,2
+Babel (Deluxe),fingers,3
+Babel (Deluxe),tap,3
+Babel (Deluxe),worried,3
+Babel (Deluxe),blew,3
+Babel (Deluxe),chance,3
+Babel (Deluxe),whispers,1
+Babel (Deluxe),dark,2
+Babel (Deluxe),steal,1
+Babel (Deluxe),kiss,1
+Babel (Deluxe),break,2
+Babel (Deluxe),pick,2
+Babel (Deluxe),clothes,1
+Babel (Deluxe),curl,1
+Babel (Deluxe),toes,1
+Babel (Deluxe),learn,16
+Babel (Deluxe),lesson,1
+Babel (Deluxe),lead,2
+Babel (Deluxe),spare,1
+Babel (Deluxe),sins,3
+Babel (Deluxe),ark,1
+Babel (Deluxe),slow,10
+Babel (Deluxe),depart,1
+Babel (Deluxe),cad,1
+Babel (Deluxe),fraud,1
+Babel (Deluxe),set,1
+Babel (Deluxe),serve,7
+Babel (Deluxe),lord,3
+Babel (Deluxe),colder,2
+Babel (Deluxe),gone,3
+Babel (Deluxe),lost,8
+Babel (Deluxe),head,9
+Babel (Deluxe),found,3
+Babel (Deluxe),one,6
+Babel (Deluxe),sun,7
+Babel (Deluxe),live,7
+Babel (Deluxe),young,3
+Babel (Deluxe),youngwell,1
+Babel (Deluxe),came,4
+Babel (Deluxe),stone,3
+Babel (Deluxe),fell,1
+Babel (Deluxe),heavy,2
+Babel (Deluxe),dust,1
+Babel (Deluxe),blow,1
+Babel (Deluxe),away,9
+Babel (Deluxe),new,2
+Babel (Deluxe),kneel,4
+Babel (Deluxe),wait,21
+Babel (Deluxe),ground,4
+Babel (Deluxe),step,1
+Babel (Deluxe),relent,1
+Babel (Deluxe),forgave,1
+Babel (Deluxe),forget,3
+Babel (Deluxe),seen,2
+Babel (Deluxe),less,3
+Babel (Deluxe),way,4
+Babel (Deluxe),shake,3
+Babel (Deluxe),excess,1
+Babel (Deluxe),bold,1
+Babel (Deluxe),strong,3
+Babel (Deluxe),use,1
+Babel (Deluxe),alongside,1
+Babel (Deluxe),tame,3
+Babel (Deluxe),flesh,4
+Babel (Deluxe),fix,1
+Babel (Deluxe),eyes,14
+Babel (Deluxe),tethered,1
+Babel (Deluxe),freed,1
+Babel (Deluxe),lies,1
+Babel (Deluxe),woo,1
+Babel (Deluxe),raise,1
+Babel (Deluxe),hands,8
+Babel (Deluxe),paint,1
+Babel (Deluxe),spirit,1
+Babel (Deluxe),gold,5
+Babel (Deluxe),bow,1
+Babel (Deluxe),keep,11
+Babel (Deluxe),waitlost,1
+Babel (Deluxe),count,1
+Babel (Deluxe),cost,1
+Babel (Deluxe),holland,3
+Babel (Deluxe),road,8
+Babel (Deluxe),spared,1
+Babel (Deluxe),lashing,1
+Babel (Deluxe),knew,6
+Babel (Deluxe),pain,2
+Babel (Deluxe),effect,1
+Babel (Deluxe),shame,1
+Babel (Deluxe),cut,6
+Babel (Deluxe),down,4
+Babel (Deluxe),tell,2
+Babel (Deluxe),thoughts,1
+Babel (Deluxe),hell,1
+Babel (Deluxe),carried,1
+Babel (Deluxe),put,2
+Babel (Deluxe),fight,1
+Babel (Deluxe),calloused,2
+Babel (Deluxe),corner,1
+Babel (Deluxe),rose,3
+Babel (Deluxe),hit,3
+Babel (Deluxe),low,1
+Babel (Deluxe),little,1
+Babel (Deluxe),would,1
+Babel (Deluxe),end,1
+Babel (Deluxe),paid,1
+Babel (Deluxe),wished,1
+Babel (Deluxe),still,9
+Babel (Deluxe),though,3
+Babel (Deluxe),cracks,3
+Babel (Deluxe),knees,3
+Babel (Deluxe),neither,2
+Babel (Deluxe),me,2
+Babel (Deluxe),believesaw,1
+Babel (Deluxe),washed,1
+Babel (Deluxe),rain,1
+Babel (Deluxe),broken,4
+Babel (Deluxe),saw,2
+Babel (Deluxe),blood,5
+Babel (Deluxe),run,5
+Babel (Deluxe),veins,1
+Babel (Deluxe),fault,1
+Babel (Deluxe),knelt,1
+Babel (Deluxe),beside,1
+Babel (Deluxe),hope,4
+Babel (Deluxe),torn,1
+Babel (Deluxe),apart,2
+Babel (Deluxe),ghosts,5
+Babel (Deluxe),flicker,2
+Babel (Deluxe),view,2
+Babel (Deluxe),long,10
+Babel (Deluxe),life,4
+Babel (Deluxe),give,6
+Babel (Deluxe),darkness,4
+Babel (Deluxe),light,10
+Babel (Deluxe),cause,4
+Babel (Deluxe),oh,11
+Babel (Deluxe),gave,4
+Babel (Deluxe),fright,3
+Babel (Deluxe),hold,26
+Babel (Deluxe),promise,3
+Babel (Deluxe),alright,3
+Babel (Deluxe),back,1
+Babel (Deluxe),turn,1
+Babel (Deluxe),south,1
+Babel (Deluxe),place,2
+Babel (Deluxe),close,2
+Babel (Deluxe),recent,1
+Babel (Deluxe),disgrace,1
+Babel (Deluxe),share,3
+Babel (Deluxe),children,1
+Babel (Deluxe),roar,1
+Babel (Deluxe),bury,2
+Babel (Deluxe),cold,4
+Babel (Deluxe),next,1
+Babel (Deluxe),might,3
+Babel (Deluxe),made,1
+Babel (Deluxe),us,3
+Babel (Deluxe),black,1
+Babel (Deluxe),blue,1
+Babel (Deluxe),lifemiddle,1
+Babel (Deluxe),night,2
+Babel (Deluxe),may,4
+Babel (Deluxe),watch,4
+Babel (Deluxe),value,2
+Babel (Deluxe),strength,4
+Babel (Deluxe),grown,2
+Babel (Deluxe),comfort,2
+Babel (Deluxe),shade,3
+Babel (Deluxe),shadows,2
+Babel (Deluxe),thrown,2
+Babel (Deluxe),mine,3
+Babel (Deluxe),seams,1
+Babel (Deluxe),take,7
+Babel (Deluxe),stumble,1
+Babel (Deluxe),wrong,3
+Babel (Deluxe),tower,1
+Babel (Deluxe),throne,1
+Babel (Deluxe),wash,1
+Babel (Deluxe),never,8
+Babel (Deluxe),lover,4
+Babel (Deluxe),skin,1
+Babel (Deluxe),tight,1
+Babel (Deluxe),marbles,1
+Babel (Deluxe),spin,1
+Babel (Deluxe),high,1
+Babel (Deluxe),glide,1
+Babel (Deluxe),tumble,1
+Babel (Deluxe),homeward,2
+Babel (Deluxe),tried,3
+Babel (Deluxe),stable,1
+Babel (Deluxe),flawed,2
+Babel (Deluxe),miss,1
+Babel (Deluxe),sanguine,1
+Babel (Deluxe),up...,1
+Babel (Deluxe),breathe,5
+Babel (Deluxe),in,1
+Babel (Deluxe),out.,1
+Babel (Deluxe),middle,1
+Babel (Deluxe),trust,1
+Babel (Deluxe),promises,1
+Babel (Deluxe),change,1
+Babel (Deluxe),show,1
+Babel (Deluxe),lightlove,1
+Babel (Deluxe),kind,1
+Babel (Deluxe),aches,1
+Babel (Deluxe),makes,2
+Babel (Deluxe),blind,1
+Babel (Deluxe),mirror,2
+Babel (Deluxe),holds,1
+Babel (Deluxe),bright,2
+Babel (Deluxe),others,1
+Babel (Deluxe),heads,1
+Babel (Deluxe),bear,1
+Babel (Deluxe),weight,1
+Babel (Deluxe),eyes.,4
+Babel (Deluxe),feel,3
+Babel (Deluxe),numb,2
+Babel (Deluxe),beneath,3
+Babel (Deluxe),tongue,4
+Babel (Deluxe),curse,4
+Babel (Deluxe),price,2
+Babel (Deluxe),pay,2
+Babel (Deluxe),must,4
+Babel (Deluxe),quiet,2
+Babel (Deluxe),rage,2
+Babel (Deluxe),wild,2
+Babel (Deluxe),wish,2
+Babel (Deluxe),dead.,2
+Babel (Deluxe),ash,2
+Babel (Deluxe),wind,2
+Babel (Deluxe),let,8
+Babel (Deluxe),die,2
+Babel (Deluxe),drink,1
+Babel (Deluxe),drug,1
+Babel (Deluxe),rid,1
+Babel (Deluxe),neath,1
+Babel (Deluxe),walk,8
+Babel (Deluxe),hand,5
+Babel (Deluxe),help,3
+Babel (Deluxe),way.,4
+Babel (Deluxe),la,21
+Babel (Deluxe),lalet,1
+Babel (Deluxe),darken,1
+Babel (Deluxe),door,1
+Babel (Deluxe),constant,2
+Babel (Deluxe),reminder,2
+Babel (Deluxe),find,2
+Babel (Deluxe),asking,2
+Babel (Deluxe),fade,3
+Babel (Deluxe),watched,1
+Babel (Deluxe),world,1
+Babel (Deluxe),stoic,1
+Babel (Deluxe),bleeding,2
+Babel (Deluxe),always,1
+Babel (Deluxe),shining,1
+Babel (Deluxe),traveling,2
+Babel (Deluxe),awayheard,1
+Babel (Deluxe),woods,1
+Babel (Deluxe),shelter,1
+Babel (Deluxe),also,1
+Babel (Deluxe),name,3
+Babel (Deluxe),leave,3
+Babel (Deluxe),click,2
+Babel (Deluxe),remember,2
+Babel (Deluxe),words,2
+Babel (Deluxe),said,4
+Babel (Deluxe),left,1
+Babel (Deluxe),clouded,1
+Babel (Deluxe),sure,1
+Babel (Deluxe),could,1
+Babel (Deluxe),hopes,1
+Babel (Deluxe),fire,2
+Babel (Deluxe),desire,2
+Babel (Deluxe),flame,2
+Babel (Deluxe),grow,3
+Babel (Deluxe),hopeless,4
+Babel (Deluxe),wanderer,4
+Babel (Deluxe),wrestled,1
+Babel (Deluxe),youth,1
+Babel (Deluxe),hard,3
+Babel (Deluxe),fine,1
+Babel (Deluxe),lose,2
+Babel (Deluxe),brought,1
+Babel (Deluxe),now,3
+Babel (Deluxe),old,2
+Babel (Deluxe),skies,2
+Babel (Deluxe),skiestouch,1
+Babel (Deluxe),mouth,1
+Babel (Deluxe),chosen,2
+Babel (Deluxe),safely,1
+Babel (Deluxe),tucked,1
+Babel (Deluxe),tempt,1
+Babel (Deluxe),day,1
+Babel (Deluxe),pull,1
+Babel (Deluxe),stifled,1
+Babel (Deluxe),air,1
+Babel (Deluxe),lungs,1
+Babel (Deluxe),open,1
+Babel (Deluxe),body,1
+Babel (Deluxe),speak,5
+Babel (Deluxe),sin,1
+Babel (Deluxe),shows,1
+Babel (Deluxe),not,1
+Babel (Deluxe),values,1
+Babel (Deluxe),shot,1
+Babel (Deluxe),consign,1
+Babel (Deluxe),so,2
+Babel (Deluxe),crawl,3
+Babel (Deluxe),belly,3
+Babel (Deluxe),goes,3
+Babel (Deluxe),wear,3
+Babel (Deluxe),crown,3
+Babel (Deluxe),took,1
+Babel (Deluxe),fucked,2
+Babel (Deluxe),twilight,3
+Babel (Deluxe),dare,2
+Babel (Deluxe),fuck,1
+Babel (Deluxe),seal,1
+Babel (Deluxe),fatecold,1
+Babel (Deluxe),bones,1
+Babel (Deluxe),led,1
+Babel (Deluxe),homes,1
+Babel (Deluxe),sleep,2
+Babel (Deluxe),hours,1
+Babel (Deluxe),weep,1
+Babel (Deluxe),steeped,1
+Babel (Deluxe),blackened,1
+Babel (Deluxe),holes,1
+Babel (Deluxe),earth,3
+Babel (Deluxe),feet,3
+Babel (Deluxe),sweat,3
+Babel (Deluxe),runs,3
+Babel (Deluxe),spell,1
+Babel (Deluxe),told,1
+Babel (Deluxe),jesus,1
+Babel (Deluxe),desires,1
+Babel (Deluxe),wrap,1
+Babel (Deluxe),ivy,1
+Babel (Deluxe),twine,1
+Babel (Deluxe),learneyes,1
+Babel (Deluxe),tie,1
+Babel (Deluxe),guard,1
+Babel (Deluxe),candle,1
+Babel (Deluxe),right,1
+Babel (Deluxe),sham,2
+Babel (Deluxe),even,1
+Babel (Deluxe),spit,1
+Babel (Deluxe),word,1
+Babel (Deluxe),sit,1
+Babel (Deluxe),scream,2
+Babel (Deluxe),dance,2
+Babel (Deluxe),fulfill,2
+Babel (Deluxe),dreams,2
+Babel (Deluxe),free,2
+Babel (Deluxe),heal,2
+Babel (Deluxe),scars,2
+Babel (Deluxe),sadness,2
+Babel (Deluxe),far,2
+Babel (Deluxe),walked,1
+Babel (Deluxe),fields,1
+Babel (Deluxe),green,1
+Babel (Deluxe),fiarest,1
+Babel (Deluxe),broke,1
+Babel (Deluxe),yes,1
+Babel (Deluxe),please,1
+Babel (Deluxe),fickle,1
+Babel (Deluxe),waste,1
+Babel (Deluxe),keeps,1
+Babel (Deluxe),soul,1
+Babel (Deluxe),urgency,1
+Babel (Deluxe),haste,1
+Babel (Gentlemen Of The Road Edition),helpless,1
+Babel (Gentlemen Of The Road Edition),lies,3
+Babel (Gentlemen Of The Road Edition),across,1
+Babel (Gentlemen Of The Road Edition),stairs,1
+Babel (Gentlemen Of The Road Edition),haunting,1
+Babel (Gentlemen Of The Road Edition),days,1
+Babel (Gentlemen Of The Road Edition),consuming,1
+Babel (Gentlemen Of The Road Edition),prayers,1
+Babel (Gentlemen Of The Road Edition),healing,2
+Babel (Gentlemen Of The Road Edition),force,1
+Babel (Gentlemen Of The Road Edition),girl,1
+Babel (Gentlemen Of The Road Edition),stand,1
+Babel (Gentlemen Of The Road Edition),counting,1
+Babel (Gentlemen Of The Road Edition),ceilings,1
+Babel (Gentlemen Of The Road Edition),pale,1
+Babel (Gentlemen Of The Road Edition),voice,1
+Babel (Gentlemen Of The Road Edition),trembling,1
+Babel (Gentlemen Of The Road Edition),hands,1
+Babel (Gentlemen Of The Road Edition),told,3
+Babel (Gentlemen Of The Road Edition),life,3
+Babel (Gentlemen Of The Road Edition),long,2
+Babel (Gentlemen Of The Road Edition),gone,3
+Babel (Gentlemen Of The Road Edition),find,3
+Babel (Gentlemen Of The Road Edition),top,3
+Babel (Gentlemen Of The Road Edition),leader,3
+Babel (Gentlemen Of The Road Edition),flock,3
+Babel (Gentlemen Of The Road Edition),cold,4
+Babel (Gentlemen Of The Road Edition),around,2
+Babel (Gentlemen Of The Road Edition),whispered,1
+Babel (Gentlemen Of The Road Edition),notes,1
+Babel (Gentlemen Of The Road Edition),piano,1
+Babel (Gentlemen Of The Road Edition),corner,1
+Babel (Gentlemen Of The Road Edition),room,1
+Babel (Gentlemen Of The Road Edition),hold,2
+Babel (Gentlemen Of The Road Edition),throat,1
+Babel (Gentlemen Of The Road Edition),hearing,1
+Babel (Gentlemen Of The Road Edition),tune,1
+Babel (Gentlemen Of The Road Edition),wanting,1
+Babel (Gentlemen Of The Road Edition),change,1
+Babel (Gentlemen Of The Road Edition),loving,1
+Babel (Gentlemen Of The Road Edition),burden,1
+Babel (Gentlemen Of The Road Edition),man,2
+Babel (Gentlemen Of The Road Edition),built,1
+Babel (Gentlemen Of The Road Edition),love,4
+Babel (Gentlemen Of The Road Edition),locked,1
+Babel (Gentlemen Of The Road Edition),stored,1
+Babel (Gentlemen Of The Road Edition),lavender,1
+Babel (Gentlemen Of The Road Edition),ward,1
+Babel (Gentlemen Of The Road Edition),cause,2
+Babel (Gentlemen Of The Road Edition),mind,2
+Babel (Gentlemen Of The Road Edition),like,1
+Babel (Gentlemen Of The Road Edition),broken,1
+Babel (Gentlemen Of The Road Edition),crippled,1
+Babel (Gentlemen Of The Road Edition),burned,1
+Babel (Gentlemen Of The Road Edition),aroundpoor,1
+Babel (Gentlemen Of The Road Edition),boy,2
+Babel (Gentlemen Of The Road Edition),though,1
+Babel (Gentlemen Of The Road Edition),story,1
+Babel (Gentlemen Of The Road Edition),seldom,1
+Babel (Gentlemen Of The Road Edition),squandered,1
+Babel (Gentlemen Of The Road Edition),resistance,1
+Babel (Gentlemen Of The Road Edition),pocket,1
+Babel (Gentlemen Of The Road Edition),full,2
+Babel (Gentlemen Of The Road Edition),mumbles,1
+Babel (Gentlemen Of The Road Edition),promises,1
+Babel (Gentlemen Of The Road Edition),jests,1
+Babel (Gentlemen Of The Road Edition),still,1
+Babel (Gentlemen Of The Road Edition),hears,1
+Babel (Gentlemen Of The Road Edition),wants,1
+Babel (Gentlemen Of The Road Edition),hear,4
+Babel (Gentlemen Of The Road Edition),disregards,1
+Babel (Gentlemen Of The Road Edition),rest,1
+Babel (Gentlemen Of The Road Edition),left,1
+Babel (Gentlemen Of The Road Edition),home,3
+Babel (Gentlemen Of The Road Edition),family,1
+Babel (Gentlemen Of The Road Edition),company,1
+Babel (Gentlemen Of The Road Edition),strangers,1
+Babel (Gentlemen Of The Road Edition),quiet,7
+Babel (Gentlemen Of The Road Edition),railway,1
+Babel (Gentlemen Of The Road Edition),stations,1
+Babel (Gentlemen Of The Road Edition),running,1
+Babel (Gentlemen Of The Road Edition),scared,1
+Babel (Gentlemen Of The Road Edition),laying,2
+Babel (Gentlemen Of The Road Edition),low,1
+Babel (Gentlemen Of The Road Edition),seeking,1
+Babel (Gentlemen Of The Road Edition),poor,1
+Babel (Gentlemen Of The Road Edition),quarters,1
+Babel (Gentlemen Of The Road Edition),ragged,1
+Babel (Gentlemen Of The Road Edition),people,1
+Babel (Gentlemen Of The Road Edition),go,2
+Babel (Gentlemen Of The Road Edition),looking,2
+Babel (Gentlemen Of The Road Edition),places,1
+Babel (Gentlemen Of The Road Edition),would,2
+Babel (Gentlemen Of The Road Edition),know,4
+Babel (Gentlemen Of The Road Edition),asking,1
+Babel (Gentlemen Of The Road Edition),wages,1
+Babel (Gentlemen Of The Road Edition),come,2
+Babel (Gentlemen Of The Road Edition),job,1
+Babel (Gentlemen Of The Road Edition),get,1
+Babel (Gentlemen Of The Road Edition),offers,1
+Babel (Gentlemen Of The Road Edition),whores,1
+Babel (Gentlemen Of The Road Edition),seventh,1
+Babel (Gentlemen Of The Road Edition),avenue,1
+Babel (Gentlemen Of The Road Edition),declare,1
+Babel (Gentlemen Of The Road Edition),times,1
+Babel (Gentlemen Of The Road Edition),lonesome,1
+Babel (Gentlemen Of The Road Edition),took,2
+Babel (Gentlemen Of The Road Edition),comfort,1
+Babel (Gentlemen Of The Road Edition),winter,1
+Babel (Gentlemen Of The Road Edition),clothes,1
+Babel (Gentlemen Of The Road Edition),wishing,1
+Babel (Gentlemen Of The Road Edition),going,3
+Babel (Gentlemen Of The Road Edition),new,1
+Babel (Gentlemen Of The Road Edition),york,1
+Babel (Gentlemen Of The Road Edition),city,2
+Babel (Gentlemen Of The Road Edition),winters,1
+Babel (Gentlemen Of The Road Edition),bleeding,2
+Babel (Gentlemen Of The Road Edition),me,1
+Babel (Gentlemen Of The Road Edition),clearing,1
+Babel (Gentlemen Of The Road Edition),stands,1
+Babel (Gentlemen Of The Road Edition),boxer,1
+Babel (Gentlemen Of The Road Edition),fighter,2
+Babel (Gentlemen Of The Road Edition),trade,1
+Babel (Gentlemen Of The Road Edition),carries,1
+Babel (Gentlemen Of The Road Edition),reminder,1
+Babel (Gentlemen Of The Road Edition),every,1
+Babel (Gentlemen Of The Road Edition),glove,1
+Babel (Gentlemen Of The Road Edition),laid,1
+Babel (Gentlemen Of The Road Edition),cut,1
+Babel (Gentlemen Of The Road Edition),till,1
+Babel (Gentlemen Of The Road Edition),cried,1
+Babel (Gentlemen Of The Road Edition),anger,1
+Babel (Gentlemen Of The Road Edition),shame,1
+Babel (Gentlemen Of The Road Edition),leaving,2
+Babel (Gentlemen Of The Road Edition),sill,1
+Babel (Gentlemen Of The Road Edition),remainscame,1
+Babel (Gentlemen Of The Road Edition),end,1
+Babel (Gentlemen Of The Road Edition),seems,1
+Babel (Gentlemen Of The Road Edition),heard,1
+Babel (Gentlemen Of The Road Edition),walked,1
+Babel (Gentlemen Of The Road Edition),streets,1
+Babel (Gentlemen Of The Road Edition),never,1
+Babel (Gentlemen Of The Road Edition),said,2
+Babel (Gentlemen Of The Road Edition),word,1
+Babel (Gentlemen Of The Road Edition),finally,1
+Babel (Gentlemen Of The Road Edition),sat,1
+Babel (Gentlemen Of The Road Edition),eyes,1
+Babel (Gentlemen Of The Road Edition),spite,1
+Babel (Gentlemen Of The Road Edition),desperate,1
+Babel (Gentlemen Of The Road Edition),weak,1
+Babel (Gentlemen Of The Road Edition),could,1
+Babel (Gentlemen Of The Road Edition),put,1
+Babel (Gentlemen Of The Road Edition),fight,1
+Babel (Gentlemen Of The Road Edition),ever,7
+Babel (Gentlemen Of The Road Edition),think,6
+Babel (Gentlemen Of The Road Edition),strangely,1
+Babel (Gentlemen Of The Road Edition),less,1
+Babel (Gentlemen Of The Road Edition),pain,2
+Babel (Gentlemen Of The Road Edition),triumphant,1
+Babel (Gentlemen Of The Road Edition),logic,1
+Babel (Gentlemen Of The Road Edition),one,1
+Babel (Gentlemen Of The Road Edition),shared,1
+Babel (Gentlemen Of The Road Edition),leave,1
+Babel (Gentlemen Of The Road Edition),clear,1
+Babel (Gentlemen Of The Road Edition),care,1
+Babel (Gentlemen Of The Road Edition),coming,1
+Babel (Gentlemen Of The Road Edition),town,1
+Babel (Gentlemen Of The Road Edition),stories,2
+Babel (Gentlemen Of The Road Edition),smile,1
+Babel (Gentlemen Of The Road Edition),frown,1
+Babel (Gentlemen Of The Road Edition),darkness,1
+Babel (Gentlemen Of The Road Edition),descend,1
+Babel (Gentlemen Of The Road Edition),relish,1
+Babel,hold,1
+Babel,truth,1
+Babel,purely,1
+Babel,well,1
+Babel,swerve,1
+Babel,minds,1
+Babel,men,1
+Babel,lie,1
+Babel,dead,1
+Babel,cup,1
+Babel,tastes,1
+Babel,holy,1
+Babel,brush,1
+Babel,devil,1
+Babel,clear,1
+Babel,mind,1
+Babel,strengthen,1
+Babel,spine,1
+Babel,fingers,3
+Babel,tap,3
+Babel,worried,3
+Babel,blew,3
+Babel,chance,3
+Babel,whispers,1
+Babel,dark,1
+Babel,steal,1
+Babel,kiss,1
+Babel,break,1
+Babel,heart,3
+Babel,pick,1
+Babel,clothes,1
+Babel,curl,1
+Babel,toes,1
+Babel,learn,1
+Babel,lesson,1
+Babel,lead,1
+Babel,home,1
+Babel,spare,1
+Babel,sins,1
+Babel,ark,1
+Babel,slow,1
+Babel,depart,1
+Babel,cad,1
+Babel,fraud,1
+Babel,set,1
+Babel,serve,1
+Babel,lord,1
+Babel,colder,2
+Babel,gone,2
+Babel,lost,2
+Babel,head,2
+Babel,found,1
+Babel,one,1
+Babel,love,1
+Babel,sun,2
+Babel,live,1
+Babel,young,4
