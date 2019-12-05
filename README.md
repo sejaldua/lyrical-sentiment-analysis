@@ -4,7 +4,7 @@
 
 I got a Medium account in July of 2019. Ever since agreeing to pay $5 a month for some excellent content from regular people like me, my life has been changed. Now when I wake up at 7:30am each day, I use the restroom, brush my teeth, hydrate with a nice glass of water, and read my Medium daily digest. These 7 articles have never failed me and always kickstart my day by either inspiring me to be productive or teaching me something totally novel that I want to try out for myself immediately after reading.
 
-Long story short, I made it my own personal mission to one day get published on Medium. And that day has finally come, my friends! My article called "Beyond the lyrics: the intersection of music and data visualization" was published in the Towards Data Science publication on Medium. https://towardsdatascience.com/beyond-the-lyrics-the-intersection-of-music-and-data-visualization-4a71039f447c.
+Long story short, I made it my own personal mission to one day get published on Medium. And that day has finally come, my friends! My article "Beyond the lyrics: the intersection of music and data visualization" was published in the Towards Data Science publication on Medium. https://towardsdatascience.com/beyond-the-lyrics-the-intersection-of-music-and-data-visualization-4a71039f447c.
 
 ![featured on the front page!](imgs/got_published_yay.png)
 
